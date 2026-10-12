@@ -15,7 +15,7 @@
    "voice": "en-US-AnaNeural"
   }
  },
- "words": 3406,
+ "words": 3407,
  "lines": [
   {
    "scene": "Saturday morning, the kitchen",
@@ -1371,7 +1371,7 @@
   {
    "s": "B",
    "en": "Like me with the pancake?",
-   "ja": "パンケーキのときみたいに？"
+   "ja": "パンケーキのときのわたしみたいに？"
   },
   {
    "s": "A",
@@ -1548,7 +1548,7 @@
   },
   {
    "s": "A",
-   "en": "Oh, and this morning, we made pancakes together. Riley flipped‿one all alone, and‿i(t) was perfect.",
+   "en": "Oh, and this morning, we made pancakes together. Riley flipped‿one all by (h)erself, and‿i(t) was perfect.",
    "ja": "あ、それと今朝は一緒にパンケーキを作ったんだ。リリーが1枚、ひとりでひっくり返してさ。それが完璧だったんだ。"
   },
   {
@@ -2085,12 +2085,12 @@
   {
    "s": "B",
    "en": "Wait, I should do that too. Where are my crayons?",
-   "ja": "待って、自分も描かなきゃ。クレヨンどこだっけ？"
+   "ja": "待って、わたしも描かなきゃ。クレヨンどこだっけ？"
   },
   {
    "s": "B",
    "en": "Dad! Have you seen my crayons?",
-   "ja": "パパー！ クレヨン見なかった？"
+   "ja": "パパー！ わたしのクレヨン見なかった？"
   },
   {
    "scene": "Bath time and bedtime",

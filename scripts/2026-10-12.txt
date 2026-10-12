@@ -284,7 +284,7 @@ B: Yay, Pip! || やったね、ピップ！
 A: "From that day on, Pip wasn'(t) afraid of fire anymore." The end. || 「その日から、ピップはもう火をこわがらなくなりました。」おしまい。
 B: I like that story. Pip was brave. || このお話好き。ピップは勇敢だったね。
 A: Yeah. Being brave doesn'(t) mean you're no(t) scared. It means you try anyway. || そうだね。勇敢っていうのは、こわくないってことじゃないんだ。それでもやってみるってことなんだよ。
-B: Like me with the pancake? || パンケーキのときみたいに？
+B: Like me with the pancake? || パンケーキのときのわたしみたいに？
 A: Exactly like you with the pancake. || まさにパンケーキのときのきみみたいにね。
 B: Can we read another one? || もう1冊読める？
 A: One more, and then‿I {have to|hafta} start the laundry. || あと1冊ね。そしたらパパは洗濯を始めなきゃ。
@@ -322,7 +322,7 @@ A: You're welcome. Thanks for helping me fold them. || どういたしまして�
 A: Hi, Mom. Yeah, it's me. How are you doing? || もしもし、母さん。うん、僕だよ。元気？
 A: Good, good. We're doing grea(t). We jus(t) go(t) back from the park. || うん、うん。こっちは元気だよ。さっき公園から帰ってきたところ。
 A: Yeah, the weather was perfect. Riley played‿on the slide for‿abou(t) an hour. || うん、天気は最高だった。リリーは1時間くらいすべり台で遊んでたよ。
-A: Oh, and this morning, we made pancakes together. Riley flipped‿one all alone, and‿i(t) was perfect. || あ、それと今朝は一緒にパンケーキを作ったんだ。リリーが1枚、ひとりでひっくり返してさ。それが完璧だったんだ。
+A: Oh, and this morning, we made pancakes together. Riley flipped‿one all by (h)erself, and‿i(t) was perfect. || あ、それと今朝は一緒にパンケーキを作ったんだ。リリーが1枚、ひとりでひっくり返してさ。それが完璧だったんだ。
 A: Be⟨tt⟩er than mine, honestly. || 正直、僕のよりうまかった。
 A: Haha, yeah. I know. I was the same a(t) that age? Really? || はは、うん。わかってる。僕もその歳のころ同じだった？ ほんとに？
 A: I don'(t) remember that a(t) all. || 全然覚えてないな。
@@ -434,8 +434,8 @@ B: It's not‿a real cookie. It's pretend. || 本物のクッキーじゃない�
 B: Bunny, do you want one too? || うさぎさんも欲しい？
 B: Okay. One for you, too. Bu⟨t⟩ only one. Cookies are for after lunch. || はい。うさぎさんにも1枚。でも1枚だけね。クッキーはお昼のあとなんだから。
 B: Now, homework. Draw‿a picture of the park. || じゃあ、宿題です。公園の絵を描いてきてください。
-B: Wait, I should do that too. Where are my crayons? || 待って、自分も描かなきゃ。クレヨンどこだっけ？
-B: Dad! Have you seen my crayons? || パパー！ クレヨン見なかった？
+B: Wait, I should do that too. Where are my crayons? || 待って、わたしも描かなきゃ。クレヨンどこだっけ？
+B: Dad! Have you seen my crayons? || パパー！ わたしのクレヨン見なかった？
 
 ## Bath time and bedtime || お風呂と寝る時間
 A: Okay, bath time. || よし、お風呂の時間だよ。
