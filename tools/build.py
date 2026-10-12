@@ -17,8 +17,8 @@ VOICES = {
     "en-US-JennyNeural", "en-US-AriaNeural", "en-US-EmmaNeural", "en-US-AvaNeural",
     "en-US-AnaNeural",
 }
-WORDS_MIN, WORDS_MAX = 1600, 2000  # 12〜13分（会話の切れ目の間を含めた見込み。実測で見直す）
-WPM = 155
+WORDS_MIN, WORDS_MAX = 1300, 1450  # 12〜13分
+WPM = 109  # 実測: 1,758語で16分07秒（2026-10-12。会話の切れ目の間を含む）
 
 RE_RUBY = re.compile(r"\{([^{}|]+)\|([^{}|]+)\}")
 RE_FLAP = re.compile(r"⟨([a-z]{1,2})⟩")
