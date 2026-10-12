@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>シャドーイング台本</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap">
+<style>
+/* Layout: one narrow reading column. Player (sticky) → legend → script (EN, numbered) → Japanese at the very bottom → settings */
+:root {
+  --bg: #f6f7f9;
+  --surface: #ffffff;
+  --fg: #1d232b;
+  --muted: #5f6b78;
+  --rule: #dde2e8;
+  --accent: #2d5f9a;
+  --now: #fff3c4;
+  --err: #b42318;
+  --link: #0f7c86;
+  --flap: #c2560c;
+  --red: #7a4fc4;
+  --spk-a: #2d5f9a;
+  --spk-b: #8a5a1f;
+  --font-en: "Literata", Georgia, "Times New Roman", serif;
+  --font-ui: "IBM Plex Sans JP", "Hiragino Sans", "Noto Sans JP", system-ui, sans-serif;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #13171c; --surface: #1b2128; --fg: #e5e9ee; --muted: #98a3af; --rule: #2c343d; --accent: #82adde; --now: #3a3418; --err: #f97066;
+  --link: #4cc3cc; --flap: #f2934d; --red: #b394f0; --spk-a: #82adde; --spk-b: #d9a764; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #13171c; --surface: #1b2128; --fg: #e5e9ee; --muted: #98a3af; --rule: #2c343d; --accent: #82adde; --now: #3a3418; --err: #f97066;
+  --link: #4cc3cc; --flap: #f2934d; --red: #b394f0; --spk-a: #82adde; --spk-b: #d9a764; color-scheme: dark }
+
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+body { margin: 0; background: var(--bg); color: var(--fg); font-family: var(--font-ui); font-size: 14px; line-height: 1.6;
+  padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px); }
+.wrap { max-width: 40rem; margin: 0 auto; padding-inline: 16px; padding-block: 20px 56px; display: grid; gap: 28px; }
+header { display: grid; gap: 6px; }
+.eyebrow { font-size: 12px; letter-spacing: .06em; color: var(--muted); }
+h1 { font-family: var(--font-en); font-weight: 600; font-size: 26px; line-height: 1.25; margin: 0; text-wrap: balance; }
+.sub { margin: 0; font-size: 14px; }
+.note, .muted { font-size: 13px; color: var(--muted); margin: 0; }
+h2 { font-size: 13px; font-weight: 600; letter-spacing: .06em; color: var(--muted); margin: 0 0 10px; }
+select, input[type=text], input[type=password] { font: inherit; font-size: 15px; color: var(--fg); background: var(--surface); border: 1px solid var(--rule); border-radius: 8px; padding: 8px 10px; width: 100%; }
+button, .btn { font: inherit; font-size: 14px; font-weight: 600; border-radius: 999px; padding: 9px 16px; border: 1px solid var(--accent); background: var(--accent); color: var(--bg); cursor: pointer; text-decoration: none; display: inline-flex; align-items: center; gap: 6px; }
+button.ghost, .btn.ghost { background: transparent; color: var(--accent); }
+button:disabled { opacity: .5; cursor: default; }
+button:focus-visible, .btn:focus-visible, select:focus-visible, input:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+.player { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--surface); border: 1px solid var(--rule); border-radius: 12px; padding: 12px; display: grid; gap: 10px; box-shadow: 0 6px 18px -14px rgba(0,0,0,.5); }
+.player audio { width: 100%; }
+.row { display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; }
+.check { display: inline-flex; gap: 6px; align-items: center; font-size: 13px; color: var(--muted); }
+#status { font-size: 13px; color: var(--muted); margin: 0; min-height: 1.2em; }
+#status[data-err] { color: var(--err); }
+.bar { height: 4px; background: var(--rule); border-radius: 4px; overflow: hidden; }
+.bar > i { display: block; height: 100%; width: 0; background: var(--accent); transition: width .3s; }
+
+.legend { display: grid; gap: 8px; background: var(--surface); border: 1px solid var(--rule); border-radius: 10px; padding: 14px 16px; }
+.legend-row { display: grid; grid-template-columns: 7.5rem 1fr; gap: 10px; align-items: baseline; font-size: 14px; }
+.legend-row .ex { font-family: var(--font-en); font-size: 17px; min-width: 0; }
+.legend-row .what { color: var(--muted); font-size: 12.5px; grid-column: 1 / -1; margin-top: -4px; }
+.tag { font-weight: 600; font-size: 13px; }
+.tag.lk { color: var(--link); } .tag.fl { color: var(--flap); } .tag.rd { color: var(--red); }
+.legend .caveat { font-size: 12px; color: var(--muted); margin: 4px 0 0; }
+
+.scene { font-size: 12.5px; font-weight: 600; letter-spacing: .03em; color: var(--muted); border-top: 1px solid var(--rule); padding-top: 14px; margin: 10px 0 0; }
+.scene .ja { font-weight: 400; margin-left: 6px; }
+ol.script { list-style: none; margin: 0; padding: 0; display: grid; gap: 14px; }
+.line { display: grid; grid-template-columns: 2.4rem 1fr; gap: 4px 10px; border-radius: 8px; padding: 2px 6px 2px 0; transition: background .2s; scroll-margin-top: 45vh; }
+.line.now { background: var(--now); }
+.num { font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; padding-top: 6px; text-align: right; }
+.body { min-width: 0; }
+.spk { font-size: 12px; font-weight: 600; letter-spacing: .04em; }
+.spk.A { color: var(--spk-a); } .spk.B { color: var(--spk-b); }
+.en { font-family: var(--font-en); font-size: 19px; line-height: 2.25; margin: 0; overflow-wrap: anywhere; }
+
+.m-lk { color: var(--link); font-weight: 600; padding-inline: 1px; }
+.m-fl { color: var(--flap); text-decoration: underline 2px; text-underline-offset: 4px; position: relative; }
+.m-fl::after { content: "ラ"; position: absolute; left: 50%; top: -1.05em; transform: translateX(-50%); font-family: var(--font-ui); font-size: 10px; font-weight: 600; line-height: 1; }
+.m-dr { opacity: .38; }
+ruby.m-rd { ruby-position: over; color: var(--red); }
+ruby.m-rd rt { font-family: var(--font-ui); font-size: 11px; font-weight: 600; letter-spacing: .02em; }
+
+.jp { border-top: 1px solid var(--rule); padding-top: 24px; }
+.jp ol { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+.jp li { display: grid; grid-template-columns: 2.4rem 1fr; gap: 10px; font-size: 15px; }
+.jp li > span:last-child { min-width: 0; }
+.jp li.jscene { display: block; font-size: 12.5px; font-weight: 600; color: var(--muted); padding-top: 10px; }
+.jp .who { font-size: 12px; font-weight: 600; margin-right: 6px; }
+
+details.settings { border-top: 1px solid var(--rule); padding-top: 18px; }
+details.settings summary { cursor: pointer; font-weight: 600; font-size: 14px; }
+.fields { display: grid; gap: 10px; margin-top: 12px; }
+.fields label { display: grid; gap: 4px; font-size: 13px; color: var(--muted); }
+@media (prefers-reduced-motion: reduce) { .line, .bar > i { transition: none; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow" id="eyebrow">シャドーイング</div>
+    <h1 id="title">読み込んでいます…</h1>
+    <p class="sub" id="title-ja"></p>
+    <p class="note" id="cast"></p>
+    <label for="week" id="week-wrap" hidden><span class="muted">ほかの週</span><select id="week"></select></label>
+  </header>
+
+  <section class="player" aria-label="音声">
+    <div class="row" id="make-row">
+      <button id="b-make" type="button">音声を作る</button>
+      <span class="muted">週1回、数分かかります。画面をつけたままにしてください。</span>
+    </div>
+    <div class="bar" id="bar" hidden><i id="bar-fill"></i></div>
+    <audio id="audio" controls preload="metadata" hidden></audio>
+    <div class="row" id="play-row" hidden>
+      <label class="check" for="follow"><input id="follow" type="checkbox" checked>再生中の文を追う</label>
+      <a class="btn ghost" id="dl" href="#" download>MP3を保存</a>
+    </div>
+    <p id="status" role="status"></p>
+  </section>
+
+  <section class="legend" aria-label="印の見方">
+    <div class="legend-row"><span class="tag lk">リンキング</span><span class="ex" data-md="pick‿up‿a"></span><span class="what">単語の終わりと次の頭がつながる。‿ の所を切らずに言う</span></div>
+    <div class="legend-row"><span class="tag fl">フラッピング</span><span class="ex" data-md="go⟨t⟩‿it · wa⟨t⟩er"></span><span class="what">母音にはさまれた t・d が、軽いラ行のような音になる</span></div>
+    <div class="legend-row"><span class="tag rd">リダクション</span><span class="ex" data-md="{going to|gonna} · don'(t) know"></span><span class="what">上の小さい字が実際の言い方。薄い字はほとんど聞こえない音</span></div>
+    <p class="caveat">印は「起きやすい所」の予測です。読み上げの声がその通りに発音しているとは限りません。</p>
+  </section>
+
+  <section aria-label="英文">
+    <h2>SCRIPT</h2>
+    <ol class="script" id="script"></ol>
+  </section>
+
+  <section class="jp" aria-label="和訳">
+    <h2>和訳</h2>
+    <ol id="ja"></ol>
+  </section>
+
+  <details class="settings" id="settings">
+    <summary>Azureのキーの設定</summary>
+    <p class="muted" style="margin-top:8px">瞬間英作文の発音チェックで保存したキーがあれば、そのまま使います。キーはこの端末のブラウザにだけ保存され、ページのコードやGitHubには入りません。</p>
+    <div class="fields">
+      <label for="key">Speechのキー<input id="key" type="password" autocomplete="off" spellcheck="false"></label>
+      <label for="region">リージョン<input id="region" type="text" autocomplete="off" spellcheck="false" value="japaneast"></label>
+      <div class="row"><button id="b-save" type="button" class="ghost">保存</button><button id="b-remake" type="button" class="ghost">この週の音声を作り直す</button></div>
+    </div>
+  </details>
+</div>
+
+<script src="vendor/speech-sdk/microsoft.cognitiveservices.speech.sdk.bundle-min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

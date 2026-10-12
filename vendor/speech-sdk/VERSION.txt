@@ -1,0 +1,1 @@
+microsoft-cognitiveservices-speech-sdk 1.51.0 (npm). distrib/browser から再配布可能なファイルだけを置いている（REDIST.txt 参照）。

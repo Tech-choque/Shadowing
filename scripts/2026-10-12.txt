@@ -1,0 +1,516 @@
+title: A Saturday with Dad
+title_ja: パパと過ごす土曜日
+relation: 父と子ども
+cast: A | Dad | 父 | en-US-GuyNeural
+cast: B | Riley | 子ども | en-US-AnaNeural
+
+## Saturday morning, the kitchen || 土曜の朝、台所
+A: Good morning, sleepyhead. || おはよう、ねぼすけさん。
+B: Morning, Dad. What time‿is‿it? || おはよう、パパ。いま何時？
+A: It's almos(t) nine. You slep(t) for a long time. || もうすぐ9時だよ。ずいぶん長く寝てたね。
+B: I was really tired. And‿I had a weird dream. || すごく疲れてたんだ。それに、変な夢を見たの。
+A: Oh yeah? Wha(t) was‿it about? || へえ、どんな夢？
+B: There was a giant ca⟨t⟩‿in our backyard, and‿it tried to eat my lunch. || 裏庭に大きな猫がいて、お昼ごはんを食べようとしてきたの。
+A: A giant cat? That sounds {kind of|kinda} fun, actually. || 大きな猫？ ちょっと楽しそうじゃない。
+B: No, it wasn'(t) fun. I had to run away. || 楽しくなかったよ。逃げなきゃいけなかったんだから。
+A: Well, you're safe now. Are you hungry? || まあ、もう安心だよ。お腹すいてる？
+B: Yeah, super hungry. Wha⟨t⟩‿are we having? || うん、すっごくすいてる。何食べるの？
+A: I was thinking‿abou(t) making pancakes. || パンケーキを作ろうかなと思ってたんだ。
+B: Pancakes! Can‿I help? || パンケーキ！ 手伝っていい？
+A: Of course. Go wash your hands first. || もちろん。先に手を洗っておいで。
+B: Okay. I'll be righ(t) back. || わかった。すぐ戻るね。
+A: Take your time. I'll ge⟨t⟩‿everything ready. || ゆっくりでいいよ。パパは準備しておくから。
+B: Done! Look, they're clean. || できた！ 見て、きれいでしょ。
+A: Grea(t) job. Can you hand me the eggs? They're‿in the fridge. || えらい。卵を取ってくれる？ 冷蔵庫に入ってるから。
+B: How many do you need? || いくつ要るの？
+A: Just two. Be careful. Don'(t) drop them. || 2個だけ。気をつけてね。落とさないように。
+B: I won't. Here you go. || 落とさないよ。はい、どうぞ。
+A: Thanks. Now, do you {want to|wanna} crack them? || ありがとう。じゃあ、割ってみる？
+B: Yes! Bu⟨t⟩ I always ge(t) shells‿in the bowl. || うん！ でも、いつも殻がボウルに入っちゃうんだよね。
+A: That's okay. We can take them‿ou(t) with a spoon. || 大丈夫。スプーンで取ればいいから。
+B: Oops. There's a li⟨tt⟩le piece in there. || あっ。ちっちゃいかけらが入っちゃった。
+A: No problem. Go⟨t⟩‿it. See? Easy. || 問題なし。取れたよ。ね？ 簡単でしょ。
+B: Wha(t) do we pu⟨t⟩‿in next? || 次は何を入れるの？
+A: Milk. Pour‿it slowly... slowly... perfect. || 牛乳。ゆっくり注いで……ゆっくり……完璧。
+B: Can‿I mix‿it? || 混ぜていい？
+A: Sure. Bu(t) not too hard, or‿it'll splash everywhere. || いいよ。でも強くやりすぎないでね。そこらじゅうに飛び散るから。
+B: Like this? || こんな感じ？
+A: Yeah, that's perfect. Keep going until‿it's smooth. || うん、ばっちり。なめらかになるまで混ぜ続けて。
+B: My arm's ge⟨tt⟩ing tired. || 腕が疲れてきた。
+A: Wan(t) me to take over for a bit? || ちょっと代わろうか？
+B: No, I can do‿it. I'm strong. || ううん、できる。力持ちだもん。
+A: You sure are. Okay, I think it's ready. || ほんとだね。よし、もうできたと思う。
+B: Can‿I pour‿it in the pan? || フライパンに流していい？
+A: Let me do tha(t) part. The pan's really hot. || そこはパパがやるよ。フライパンがすごく熱いから。
+B: Okay. Can‿I flip them, then? || わかった。じゃあ、ひっくり返すのはやっていい？
+A: Hmm, maybe the las(t) one. I'll show you how. || うーん、最後の1枚ならいいかな。やり方を見せるね。
+B: When do you flip‿it? || いつひっくり返すの？
+A: When you see li⟨tt⟩le bubbles on top. See those? || 上に小さい泡が出てきたら。ほら、見える？
+B: Oh, yeah! There are lots‿of them. || あ、ほんとだ！ いっぱい出てる。
+A: Now, slide the spatula under‿it and... flip! || じゃあ、フライ返しを下に入れて……ひっくり返す！
+B: Whoa! It's so brown and pre⟨tt⟩y. || わあ！ こんがりしててきれい。
+A: Tha(t) means it's done. Okay, your turn. || これで焼けたってこと。よし、次はきみの番。
+B: I'm nervous. Wha(t)‿if‿it falls? || 緊張する。落ちちゃったらどうしよう？
+A: Then we'll eat‿a funny-looking pancake. No big deal. || そしたら、変な形のパンケーキを食べればいいよ。たいしたことじゃない。
+B: Okay. One, two, three... I did‿it! || わかった。いち、にの、さん……できた！
+A: Look‿a⟨t⟩ that! That's be⟨tt⟩er than mine. || 見てごらん！ パパのよりうまいじゃない。
+B: Can we have syrup? || シロップかけていい？
+A: Sure, bu(t) just‿a li⟨tt⟩le. || いいよ。でも、ちょっとだけね。
+B: How abou⟨t⟩‿a medium amount? || 中くらいの量はどう？
+A: Nice try. A li⟨tt⟩le. || うまいこと言うね。ちょっとだけ。
+B: Okay, okay. These are so good, Dad. || はいはい。これ、すっごくおいしいよ、パパ。
+A: Because you helped. Food tastes be⟨tt⟩er when you make‿it yourself. || きみが手伝ってくれたからだよ。自分で作ると、おいしく感じるんだ。
+
+## La⟨t⟩er — Dad alone, looking for the car keys || しばらくして（父ひとり、車の鍵を探している）
+A: Okay, where did‿I pu(t) my keys? || さて、鍵をどこに置いたっけ？
+A: They're usually right here by the door. || いつもはドアのそばのここにあるんだけどな。
+A: Not‿in my jacket. Not‿in my bag. || ジャケットにもない。かばんにもない。
+A: Did‿I leave them‿in the car? No, the car's locked. || 車の中に置いてきた？ いや、車には鍵がかかってる。
+A: Okay, think. When did‿I las(t) use them? || よし、考えよう。最後に使ったのはいつだ？
+A: Las(t) night. I came home, I pu(t) the groceries on the counter... || ゆうべだ。家に帰って、買ったものをカウンターに置いて……
+A: ...and then‿I took‿ou(t) the trash. || ……それからゴミを出したんだ。
+A: Maybe I dropped them by the trash can? || ゴミ箱のそばに落としたのかな？
+A: Ugh, I don'(t) {want to|wanna} go outside in my slippers. || うーん、スリッパのまま外に出たくないな。
+A: Wait‿a second. What's this in my pocket? || ちょっと待った。ポケットに入ってるこれは何だ？
+A: Oh, come on. They were‿in my pocket the whole time. || なんだよ。ずっとポケットに入ってたのか。
+A: I need to star(t) pu⟨tt⟩ing them‿in the same place every time. || 毎回同じ場所に置くようにしないとな。
+A: Okay. Keys, wallet, phone. Go⟨t⟩ everything. || よし。鍵、財布、スマホ。全部ある。
+
+## Getting ready to go out || 出かける準備
+A: Riley, are you ready to go? || リリー、出かける準備できた？
+B: Almost! I can'(t) find my other shoe. || もうちょっと！ 片方の靴が見つからないの。
+A: Did you look under your bed? || ベッドの下は見た？
+B: Yeah. It's no(t) there. || うん。そこにはないよ。
+A: Wha⟨t⟩‿abou(t) the living room? You were playing there yesterday. || リビングは？ 昨日そこで遊んでたでしょ。
+B: Oh, wait. Here‿it is! It was behind the couch. || あ、待って。あった！ ソファの後ろにあった。
+A: Grea(t). Pu⟨t⟩‿it on, and let's go. || よかった。履いて、行こう。
+B: Do‿I need‿a jacket? || ジャケット要る？
+A: Yeah, it's {kind of|kinda} chilly this morning. || うん、今朝はちょっと肌寒いよ。
+B: Bu⟨t⟩‿it's sunny. || でも、晴れてるよ。
+A: I know, bu(t) the wind is cold. Trus(t) me. || わかってる。でも風が冷たいんだ。信じて。
+B: Fine. Can‿I wear my red one? || いいよ。赤いのにしていい？
+A: Sure. Where‿is‿it? || いいよ。どこにある？
+B: On the hook. Can you ge⟨t⟩‿it for me? I can'(t) reach. || フックにかかってる。取ってくれる？ 届かないの。
+A: Here you go. Do you have everything? || はい、どうぞ。全部持った？
+B: I think so. Wai(t), can‿I bring my ball? || たぶん。待って、ボール持っていっていい？
+A: Good idea. We're going to the park after all. || いいね。どうせ公園に行くんだし。
+B: And my water bo⟨tt⟩le? || それと水筒も？
+A: Already‿in my bag. I filled‿it up for you. || もうパパのかばんに入ってるよ。いっぱいに入れておいた。
+B: Thanks, Dad. || ありがとう、パパ。
+A: All righ(t). Shoes on, jacke⟨t⟩‿on, ball... let's go! || よし。靴よし、ジャケットよし、ボール……行こう！
+B: Wait! I need to go to the bathroom. || 待って！ トイレに行きたい。
+A: Of course you do. Go ahead. I'll wait. || だよね。行っておいで。待ってるから。
+
+## On the walk to the park || 公園までの道
+B: Dad, can we walk instead of driving? || パパ、車じゃなくて歩いて行かない？
+A: Sure. It's a nice day. And‿it's not that far. || いいよ。いい天気だし。それに、そんなに遠くないしね。
+B: How long does‿it take? || どのくらいかかるの？
+A: Abou(t) fifteen minutes. Maybe twenty, if we stop and look‿at everything. || 15分くらい。いろいろ立ち止まって見てたら、20分かな。
+B: Can‿I bounce my ball while we walk? || 歩きながらボールついていい？
+A: Not on this street. There are too many cars. Wai⟨t⟩‿until we ge(t) to the park. || この道はだめ。車が多すぎるからね。公園に着くまで待って。
+B: Okay. Oh, look! It's Mr. Brown's dog! || わかった。あ、見て！ ブラウンさんの犬だ！
+A: Hi, Mr. Brown. Beautiful morning, isn'(t) it? || おはようございます、ブラウンさん。いい朝ですね。
+B: Can‿I pet him? || なでてもいい？
+A: You have to ask Mr. Brown first. || まずブラウンさんに聞かないとね。
+B: Mr. Brown, can‿I pet your dog? ... He said yes! || ブラウンさん、ワンちゃんなでていい？……いいって！
+A: Gently. Le(t) him smell your hand firs(t). || やさしくね。先に手のにおいをかがせてあげて。
+B: He's so soft. And his tail's wagging. || すっごくふわふわ。しっぽ振ってる。
+A: Tha⟨t⟩ means he likes you. Okay, say bye. We {have to|hafta} keep going. || きみのことが好きってことだよ。よし、バイバイして。先に進まなきゃ。
+B: Bye, buddy! See you la⟨t⟩er! || バイバイ、ワンちゃん！ またね！
+A: Okay, we're crossing here. Hold my hand. || よし、ここで渡るよ。手をつないで。
+B: I know. Look lef(t), look right, look left again. || わかってる。左を見て、右を見て、もう一回左。
+A: Perfect. Who taugh(t) you that? || 完璧。誰に教わったの？
+B: My teacher. We practiced it a(t) school. || 先生。学校で練習したの。
+A: Good. Now let's go. Walk, don'(t) run. || えらい。じゃあ渡ろう。歩いてね、走らないで。
+B: Dad, why‿is tha(t) house so big? || パパ、どうしてあの家はあんなに大きいの？
+A: I don'(t) know. Maybe a big family lives there. || わからないな。大家族が住んでるのかもね。
+B: Like, ten people? || 10人とか？
+A: Maybe. Or maybe they jus(t) like big houses. || かもね。それか、ただ大きい家が好きなのかも。
+B: I like our house. It's cozy. || うちの家が好き。居心地いいもん。
+A: Me too. Oh, look. You can see the park from here. || パパも。あ、見て。ここから公園が見えるよ。
+B: I'll race you to the gate! || 門まで競走しよう！
+A: Okay, bu⟨t⟩‿only on the sidewalk. Ready... go! || いいよ。でも歩道の上だけね。用意……どん！
+
+## At the park || 公園で
+B: Dad, look! The swings are free! || パパ、見て！ ブランコが空いてる！
+A: Go ahead. I'll be righ(t) there. || 行っておいで。すぐ行くから。
+B: Can you push me? || 押してくれる？
+A: Sure. Hold‿on tight. || いいよ。しっかりつかまってね。
+B: Higher! Higher! || もっと高く！ もっと高く！
+A: Okay, bu(t) not too high. Keep holding‿on. || わかった。でも高すぎないようにね。つかまったままでいて。
+B: I can see the whole park from up here! || ここから公園がぜんぶ見える！
+A: Wha(t) can you see? || 何が見える？
+B: The pond, the slide, and... there's Maya! || 池と、すべり台と……マヤがいる！
+A: Your friend from school? || 学校のお友だち？
+B: Yeah! Can‿I go say hi? || うん！ あいさつしてきていい？
+A: Sure. Bu(t) stay where‿I can see you. || いいよ。でも、パパから見えるところにいてね。
+B: I will. Maya! Over here! || うん。マヤー！ こっちだよ！
+A: Have fun. I'll be sitting‿on tha(t) bench. || 楽しんでおいで。パパはあのベンチに座ってるから。
+
+## Back at the bench || ベンチに戻って
+B: Dad, can Maya and‿I play on the slide? || パパ、マヤとすべり台で遊んでいい？
+A: Of course. Did you say hi to her dad? || もちろん。マヤのパパにあいさつした？
+B: Oh, I forgo(t). || あ、忘れてた。
+A: He's righ⟨t⟩‿over there. Go say hi. || すぐそこにいるよ。あいさつしておいで。
+B: Okay. Be righ(t) back. || わかった。すぐ戻る。
+B: I said hi. He said you can come over and talk to him. || あいさつしてきた。パパもこっちに来て話そうって。
+A: Maybe la⟨t⟩er. Go play. || あとでね。遊んでおいで。
+B: Dad! Watch me go down the big slide! || パパ！ 大きいすべり台をすべるとこ見てて！
+A: I'm watching! Go for‿it! || 見てるよ！ がんばれ！
+B: Did you see that? I wen(t) so fast! || 見た？ すっごく速かったでしょ！
+A: I saw‿it. Tha(t) was‿awesome. || 見たよ。すごかった。
+B: Can‿I go again? || もう1回いい？
+A: Sure. A few more times, and then we {have to|hafta} go to the store. || いいよ。あと何回かね。そのあとお店に行かなきゃいけないから。
+B: Aw, already? || えー、もう？
+A: We'll come back nex(t) weekend. I promise. || 来週末にまた来るよ。約束する。
+B: Can Maya come too? || マヤも来ていい？
+A: We can ask her dad. || マヤのパパに聞いてみよう。
+B: Yay! || やったー！
+A: Okay. Three more times. Then we're leaving. || よし。あと3回。そしたら帰るよ。
+B: Can‿I have a snack first? I'm starving. || 先におやつ食べていい？ お腹ぺこぺこ。
+A: You jus(t) had breakfas(t) two hours‿ago. || 2時間前に朝ごはん食べたばっかりだよ。
+B: Bu⟨t⟩‿I played a lot. || でも、いっぱい遊んだもん。
+A: That's true. Here, have‿an apple. || それもそうだね。ほら、りんごをどうぞ。
+B: Can‿I have the cookies instead? || 代わりにクッキーがいいな。
+A: Apple now, cookies la⟨t⟩er. || いまはりんご、クッキーはあとで。
+B: Okay. This apple's really good, actually. || わかった。このりんご、実はすごくおいしい。
+A: See? Told you. || ほらね。言ったでしょ。
+B: Dad, why do leaves change color? || パパ、どうして葉っぱの色が変わるの？
+A: Good question. When‿it gets cold, the trees stop making food in their leaves. || いい質問だね。寒くなると、木は葉っぱで栄養を作るのをやめるんだ。
+B: Trees make food? || 木って栄養を作るの？
+A: Yeah, from sunligh⟨t⟩‿and wa⟨t⟩er. The green color comes from tha(t). || そう、日の光と水からね。緑色はそこから来てるんだ。
+B: So when they stop, the green goes‿away? || じゃあ、作るのをやめると緑がなくなるの？
+A: Exactly. And then you see the red and yellow underneath. || その通り。そうすると、下にあった赤や黄色が見えてくるんだ。
+B: That's so cool. || すっごくおもしろいね。
+A: Pre⟨tt⟩y cool, righ(t)? Okay, three more slides. || なかなかおもしろいでしょ？ よし、すべり台あと3回。
+B: Then cookies? || そしたらクッキー？
+A: Then the store. Cookies after lunch. || そしたらお店。クッキーはお昼のあと。
+B: Deal! || 決まり！
+
+## At the grocery store || スーパーで
+A: Okay, we need milk, bread, eggs, and some vegetables. || よし、牛乳とパンと卵と、それから野菜を少し。
+B: Can‿I push the cart? || カート押していい？
+A: Sure. Jus(t) be careful. Don'(t) hit‿anyone. || いいよ。気をつけてね。人にぶつからないように。
+B: I won't. Beep beep! Coming through! || ぶつからないよ。ピーピー！ 通りまーす！
+A: Not so fast. Slow down a li⟨tt⟩le. || そんなに速くしないで。ちょっとゆっくり。
+B: Sorry. Where do we go first? || ごめん。最初はどこに行くの？
+A: Let's star(t) with the vegetables. Can you grab some carrots? || 野菜から始めよう。にんじんを取ってくれる？
+B: How many? || いくつ？
+A: One bag. The small one is fine. || 1袋。小さいのでいいよ。
+B: Got‿it. Dad, wha⟨t⟩‿are those? || わかった。パパ、あれなに？
+A: Those are sweet potatoes. {Want to|Wanna} try them tonight? || あれはさつまいもだよ。今夜食べてみる？
+B: Are they sweet? || 甘いの？
+A: Yeah, they're pre⟨tt⟩y sweet. You can have them like fries. || うん、けっこう甘いよ。フライドポテトみたいにして食べられるんだ。
+B: Sweet potato fries? Yes, please! || さつまいものポテト？ うん、食べたい！
+A: Okay. Pick two good ones. || よし。いいのを2つ選んで。
+B: How do‿I know which ones are good? || どれがいいのか、どうやってわかるの？
+A: Look for ones withou⟨t⟩‿any soft spots. And not too big. || やわらかいところがないのを探して。あと、大きすぎないの。
+B: This one? || これは？
+A: Perfect. One more. || 完璧。もう1つ。
+B: This one has‿a weird shape. || これ、変な形してる。
+A: That's okay. Shape doesn'(t) matter. It'll taste the same. || それでいいよ。形は関係ない。味は同じだから。
+B: Now milk? || 次は牛乳？
+A: Yep. It's all the way‿in the back. || うん。いちばん奥にあるよ。
+B: Why‿is the milk always‿in the back? || どうして牛乳っていつもいちばん奥にあるの？
+A: So people walk past everything else and buy more stuff. || みんながほかの物の前を通って、もっと買うようにだよ。
+B: That's sneaky. || ずるいね。
+A: Yeah, it {kind of|kinda} is. || うん、ちょっとね。
+B: Dad, can we ge⟨t⟩‿ice cream? || パパ、アイス買っていい？
+A: Hmm. We still have some‿a(t) home. || うーん。家にまだ残ってるよ。
+B: Bu(t) that's vanilla. I wan(t) chocolate. || でも、それバニラでしょ。チョコがいい。
+A: Let's finish the vanilla first. Then we'll ge(t) chocolate nex(t) time. || 先にバニラを食べ切ろう。そしたら次はチョコを買おう。
+B: Promise? || 約束？
+A: Promise. || 約束。
+B: Okay. What's nex(t) on the list? || わかった。リストの次は何？
+A: Bread. Can you read it for me? || パン。読んでくれる？
+B: B-R-E-A-D. Bread! And then... eggs. || ビー、アール、イー、エー、ディー。パン！ それから……卵。
+A: Grea(t) reading. Let's go ge(t) {them|'em}. || 上手に読めたね。取りに行こう。
+B: Can‿I carry the eggs? || 卵、持っていい？
+A: Hmm. Okay, bu(t) hold them with both hands. || うーん。いいよ。でも両手で持ってね。
+B: I'm being super careful. Look. || すっごく気をつけてるよ。見て。
+A: I see. Good job. Let's go pay. || わかってる。えらいね。お会計に行こう。
+B: Can‿I put the stuff‿on the belt? || 品物をベルトに乗せていい？
+A: Sure. Heavy things first, eggs las(t). || いいよ。重いものから先に、卵は最後ね。
+B: Why eggs las(t)? || どうして卵は最後なの？
+A: So they don'(t) ge(t) crushed in the bag. || 袋の中でつぶれないようにだよ。
+B: Oh, that makes sense. || あ、なるほど。
+A: Okay, that's everything. Thanks for helping. || よし、これで全部。手伝ってくれてありがとう。
+B: Can we ge(t) lunch now? I'm hungry again. || もうお昼にしていい？ またお腹すいた。
+A: Already? Okay, let's go home and make sandwiches. || もう？ わかった。家に帰ってサンドイッチを作ろう。
+
+## Lunch at home || 家でお昼ごはん
+B: Can‿I make my own sandwich? || 自分のサンドイッチ、自分で作っていい？
+A: Sure. Wha(t) do you {want to|wanna} put‿in it? || いいよ。何をはさみたい？
+B: Ham, cheese, and... cookies? || ハムとチーズと……クッキー？
+A: Nice try. Cookies are for after lunch. || うまいこと言うね。クッキーはお昼のあと。
+B: Fine. Ham and cheese, then. || わかった。じゃあハムとチーズ。
+A: Do you {want to|wanna} add some le⟨tt⟩uce? || レタスも入れる？
+B: No thanks. Le⟨tt⟩uce is boring. || いらない。レタスはつまんない。
+A: Okay, bu(t) you're eating carrots with dinner tonight. || わかった。でも、夜ごはんにはにんじんを食べるんだよ。
+B: With the sweet potatoes? || さつまいもと一緒に？
+A: Yep. With the sweet potatoes. || うん。さつまいもと一緒に。
+B: Okay. That's fair. || わかった。それならいいよ。
+A: How's your sandwich? || サンドイッチはどう？
+B: Really good. Can‿I have the cookies now? || すっごくおいしい。もうクッキー食べていい？
+A: Finish your sandwich first. || 先にサンドイッチを食べ終わってね。
+B: Done! || 食べた！
+A: Wow, tha(t) was fast. Okay, two cookies. || わあ、速いね。よし、クッキー2枚。
+B: Only two? || 2枚だけ？
+A: Only two. And then quie(t) time. || 2枚だけ。そのあとは静かに過ごす時間。
+B: Can‿I watch‿a movie? || 映画見ていい？
+A: How abou(t) reading‿a book instead? || 代わりに本を読むのはどう？
+B: Can we read together? || 一緒に読んでくれる？
+A: Sure. Go pick‿one. || いいよ。1冊選んでおいで。
+
+## Quiet time — reading together || 静かに過ごす時間（一緒に本を読む）
+B: I picked this one. It's abou⟨t⟩‿a dragon who's afraid of fire. || これにした。火がこわいドラゴンのお話。
+A: A dragon who's afraid of fire? Tha⟨t⟩'s new. || 火がこわいドラゴン？ 新しいね。
+B: Can‿I read the firs(t) page? || 最初のページ、読んでいい？
+A: Sure. Go ahead. I'll help if you ge(t) stuck. || いいよ。どうぞ。つっかえたら手伝うから。
+B: "Once there was a dragon named Pip. Pip lived in‿a cave on top of a mountain." || 「あるところに、ピップという名前のドラゴンがいました。ピップは山の上のほら穴に住んでいました。」
+A: Nice reading. Keep going. || 上手だね。続けて。
+B: "All the other dragons could breathe fire. Bu⟨t⟩ Pip was scared of it." || 「ほかのドラゴンはみんな火をふけました。でも、ピップは火がこわかったのです。」
+B: Dad, what does "breathe" mean? || パパ、「ブリーズ」ってどういう意味？
+A: It means to take air in and pu⟨t⟩‿it out. Like this. In... and out. || 空気を吸って、吐き出すことだよ。こんなふうに。吸って……吐いて。
+B: Oh. So the dragons breathe out fire instead‿of air? || あ、そっか。じゃあドラゴンは空気の代わりに火を吐くんだね？
+A: Exactly. Wha⟨t⟩ happens next? || その通り。次はどうなるの？
+B: You read now. My throat's tired. || 今度はパパが読んで。のどが疲れちゃった。
+A: Okay. "One day, a big storm came. The wind was cold, and all the dragons were shivering." || いいよ。「ある日、大きな嵐がやってきました。風は冷たく、ドラゴンたちはみんな震えていました。」
+A: "'We need‿a fire to stay warm,' said the oldest dragon. Bu⟨t⟩ everyone was too tired." || 「『あたたまるには火が要る』と、いちばん年上のドラゴンが言いました。でも、みんな疲れ切っていました。」
+B: Uh-oh. Is Pip {going to|gonna} do‿it? || あれ、ピップがやるのかな？
+A: Let's see. "Pip took‿a deep breath. Pip was scared, bu⟨t⟩ Pip tried anyway." || 見てみよう。「ピップは深く息を吸いました。こわかったけれど、それでもやってみました。」
+A: "And‿a tiny flame came out. Then a bigger one. Soon, the whole cave was warm." || 「すると、小さな炎が出てきました。それから、もっと大きな炎も。やがて、ほら穴全体があたたかくなりました。」
+B: Yay, Pip! || やったね、ピップ！
+A: "From that day on, Pip wasn'(t) afraid of fire anymore." The end. || 「その日から、ピップはもう火をこわがらなくなりました。」おしまい。
+B: I like that story. Pip was brave. || このお話好き。ピップは勇敢だったね。
+A: Yeah. Being brave doesn'(t) mean you're no(t) scared. It means you try anyway. || そうだね。勇敢っていうのは、こわくないってことじゃないんだ。それでもやってみるってことなんだよ。
+B: Like me with the pancake? || パンケーキのときみたいに？
+A: Exactly like you with the pancake. || まさにパンケーキのときのきみみたいにね。
+B: Can we read another one? || もう1冊読める？
+A: One more, and then‿I {have to|hafta} start the laundry. || あと1冊ね。そしたらパパは洗濯を始めなきゃ。
+
+## Folding the laundry together || 一緒に洗濯物をたたむ
+A: Riley, can you come help me for a minute? || リリー、ちょっと手伝ってくれる？
+B: Wha⟨t⟩‿are you doing? || 何してるの？
+A: Folding the laundry. There's a lo⟨t⟩‿of it. || 洗濯物をたたんでるの。たくさんあるんだ。
+B: Can‿I do the socks? || 靴下やっていい？
+A: Sure. Find the pairs and put them together. || いいよ。ペアを見つけて、まとめてね。
+B: This one's blue with stars. Where's the other‿one? || これ、星がついた青いやつ。もう片方はどこ？
+A: Maybe‿it's still in the dryer. Can you check? || まだ乾燥機の中かもね。見てくれる？
+B: Found‿it! It was stuck to a towel. || あった！ タオルにくっついてた。
+A: Nice. Okay, how abou(t) these white ones? || いいね。じゃあ、この白いのは？
+B: They all look the same. || 全部同じに見える。
+A: Tha⟨t⟩'s the good thing abou(t) white socks. Any two‿are a pair. || 白い靴下のいいところはそこだよ。どの2つでもペアになるんだ。
+B: Haha. Okay, done with the socks. || あはは。よし、靴下終わり。
+A: Grea(t). Can you fold the towels? Like this. In half, and then in half again. || ばっちり。タオルもたたんでくれる？ こうやって。半分に折って、もう一回半分。
+B: Like this? It looks‿a li⟨tt⟩le messy. || こう？ ちょっとぐちゃぐちゃ。
+A: Tha⟨t⟩'s fine. It doesn'(t) have to be perfect. || 大丈夫。完璧じゃなくていいんだよ。
+B: Dad, why do we have so many towels? || パパ、どうしてうちにはこんなにタオルがあるの？
+A: Good question. I think we keep buying new ones and never throw‿away the old ones. || いい質問だね。新しいのを買い続けて、古いのを捨てないからだと思う。
+B: Can we use the old ones for something else? || 古いのは何か別のことに使えないの？
+A: Sure. We could use them for washing the car. || 使えるよ。洗車に使えるね。
+B: Can‿I help wash the car? || 洗車、手伝っていい？
+A: Of course. Maybe next weekend, if it's sunny. || もちろん。来週末、晴れたらね。
+B: Nex(t) weekend is busy. Park, Maya, chocolate ice cream, and the car. || 来週末は忙しいね。公園、マヤ、チョコアイス、それと洗車。
+A: Sounds like‿a grea(t) weekend. Okay, take these to your room, please. || 最高の週末になりそうだね。よし、これを自分の部屋に持っていってくれる？
+B: All of them? They're heavy. || 全部？ 重いよ。
+A: Jus(t) your clothes. I'll take the res(t). || 自分の服だけでいいよ。残りはパパが持っていく。
+B: Okay. Thank you for washing my clothes, Dad. || わかった。服を洗ってくれてありがとう、パパ。
+A: You're welcome. Thanks for helping me fold them. || どういたしまして。たたむのを手伝ってくれてありがとう。
+
+## Dad alone, on the phone with Grandma || 父ひとり、おばあちゃんと電話
+A: Hi, Mom. Yeah, it's me. How are you doing? || もしもし、母さん。うん、僕だよ。元気？
+A: Good, good. We're doing grea(t). We jus(t) go(t) back from the park. || うん、うん。こっちは元気だよ。さっき公園から帰ってきたところ。
+A: Yeah, the weather was perfect. Riley played‿on the slide for‿abou(t) an hour. || うん、天気は最高だった。リリーは1時間くらいすべり台で遊んでたよ。
+A: Oh, and this morning, we made pancakes together. Riley flipped‿one all alone, and‿i(t) was perfect. || あ、それと今朝は一緒にパンケーキを作ったんだ。リリーが1枚、ひとりでひっくり返してさ。それが完璧だったんだ。
+A: Be⟨tt⟩er than mine, honestly. || 正直、僕のよりうまかった。
+A: Haha, yeah. I know. I was the same a(t) that age? Really? || はは、うん。わかってる。僕もその歳のころ同じだった？ ほんとに？
+A: I don'(t) remember that a(t) all. || 全然覚えてないな。
+A: Wha⟨t⟩ abou(t) you? How's your knee? || 母さんは？ ひざの具合はどう？
+A: Tha⟨t⟩'s good to hear. Are you still doing those exercises? || それはよかった。あの体操はまだ続けてる？
+A: Every morning? Wow. Good for you. || 毎朝？ すごい。えらいね。
+A: Oh, by the way, are you free nex(t) Sunday? || あ、ところで、来週の日曜は空いてる？
+A: We were thinking‿abou(t) coming over for lunch. || お昼を食べに行こうかと思ってたんだ。
+A: No, no, you don'(t) have to cook anything. We'll bring something. || いやいや、何も作らなくていいよ。何か持っていくから。
+A: Okay, okay. If you really wan(t) to. Bu⟨t⟩ nothing too big, all right? || わかった、わかった。どうしてもって言うなら。でも、あんまり大げさにしないでね。
+A: Riley? Yeah, Riley's in the bedroom, playing school with the stuffed animals. || リリー？ うん、部屋でぬいぐるみと学校ごっこしてるよ。
+A: Do you {want to|wanna} talk to Riley? Hold‿on, I'll go ge(t)... || リリーと話したい？ ちょっと待って、呼んでくる……
+A: Oh, you have to go? Okay, no problem. I'll tell Riley you said hi. || あ、もう行かなきゃ？ わかった、大丈夫。母さんがよろしくって言ってたって伝えておくよ。
+A: Okay. Talk to you soon. Bye, Mom. Love you. || うん。またね。じゃあね、母さん。
+
+## Late afternoon — Dad alone, cooking dinner || 夕方（父ひとり、夕食を作っている）
+A: Okay. Sweet potatoes firs(t). || よし。まずはさつまいもから。
+A: Wash them, cu⟨t⟩ {them|'em} into sticks... not too thin. || 洗って、棒状に切って……細くしすぎないように。
+A: Olive oil, a li⟨tt⟩le sal(t)... and into the oven. || オリーブオイル、塩を少し……で、オーブンへ。
+A: Twenty-five minutes. {Let me|Lemme} set‿a timer so I don'(t) forget. || 25分。忘れないようにタイマーをかけておこう。
+A: Nex(t), the carrots. I'll steam them. Riley likes them soft. || 次はにんじん。蒸そう。リリーはやわらかいのが好きだから。
+A: Wha⟨t⟩‿else? Chicken. I took‿it ou⟨t⟩‿of the freezer this morning. || ほかには？ 鶏肉だ。今朝、冷凍庫から出しておいたんだ。
+A: Is‿it thawed? {Let me|Lemme} check. Yeah, it's good. || 解けてるかな？ 見てみよう。うん、大丈夫。
+A: Salt, pepper, garlic... maybe a li⟨tt⟩le lemon. || 塩、こしょう、にんにく……レモンを少し入れてもいいかな。
+A: Where did‿I pu⟨t⟩ the lemon? I jus(t) bought‿one. || レモンどこに置いたっけ？ 買ったばかりなのに。
+A: Oh, it's still in the bag. Of course. || あ、まだ袋に入ってる。そりゃそうだ。
+A: Okay, the pan's hot. Chicken goes in. || よし、フライパンが熱くなった。鶏肉を入れる。
+A: That smells good already. || もういいにおいがしてる。
+A: Five minutes on this side, then flip‿it. || こっち側で5分、それからひっくり返す。
+A: While that's cooking, {let me|lemme} clean up‿a li⟨tt⟩le. || 焼いてるあいだに、ちょっと片づけよう。
+A: Cu⟨tt⟩ing board, knife... I'll wash these now. || まな板、包丁……これはいま洗っておこう。
+A: Ugh, the sink's full again. Where do all these dishes come from? || うわ、また流しがいっぱいだ。この皿はどこから湧いてくるんだ？
+A: Oh, right. Pancakes this morning. And sandwiches. || あ、そうか。今朝のパンケーキ。それにサンドイッチ。
+A: Okay, flip the chicken. Nice. Golden brown. || よし、鶏肉をひっくり返そう。いいね。きつね色だ。
+A: Timer says ten more minutes for the sweet potatoes. || タイマーだと、さつまいもはあと10分。
+A: Perfec(t) timing. Everything should be ready a(t) the same time. || ちょうどいい。全部同時にできあがるはずだ。
+A: I think‿I'm ge⟨tt⟩ing be⟨tt⟩er at this. || 料理、上手になってきた気がするな。
+
+## Dinner || 夜ごはん
+A: Riley! Dinner's ready! || リリー！ ごはんできたよ！
+B: Coming! It smells so good! || いま行く！ すっごくいいにおい！
+A: Can you help me set the table? || テーブルの準備を手伝ってくれる？
+B: Sure. Wha(t) do‿I need? || いいよ。何が要るの？
+A: Two plates, two forks, and two cups. || お皿2枚、フォーク2本、コップ2つ。
+B: Where are the forks again? || フォークってどこだっけ？
+A: Top drawer, nex(t) to the sink. || いちばん上の引き出し。流しの隣だよ。
+B: Got them! Can‿I pour the wa⟨t⟩er? || あった！ お水入れていい？
+A: Sure. Jus(t) fill‿it halfway. || いいよ。半分くらいまでね。
+B: Is this halfway? || これで半分？
+A: A li⟨tt⟩le more than halfway, bu(t) that's okay. || 半分よりちょっと多いけど、まあいいよ。
+B: Wow, sweet potato fries! || わあ、さつまいものポテト！
+A: Try one. They're hot, so blow on‿it first. || 1本食べてみて。熱いから、先にふーふーしてね。
+B: Mmm! They really are sweet! || んー！ ほんとに甘い！
+A: Told you. Now try the carrots. || 言ったでしょ。じゃあ、にんじんも食べてみて。
+B: Do‿I have to? || 食べなきゃだめ？
+A: We made‿a deal, remember? || 約束したでしょ、覚えてる？
+B: Okay. Hey, these are soft. They're no(t) bad. || わかった。あれ、やわらかい。悪くないね。
+A: I steamed them jus(t) for you. || きみのために蒸したんだよ。
+B: Can‿I have more chicken? || 鶏肉おかわりしていい？
+A: Of course. Here you go. || もちろん。はい、どうぞ。
+B: Dad, this is the bes(t) dinner ever. || パパ、これ今までで最高の夜ごはん。
+A: Really? Be⟨tt⟩er than pizza? || ほんと？ ピザより？
+B: Hmm... almos(t) as good as pizza. || うーん……ピザとほぼ同じくらい。
+A: That's a big compliment. I'll take‿it. || それは最高のほめ言葉だね。ありがたく受け取るよ。
+B: What's for dessert? || デザートは何？
+A: Vanilla ice cream. Remember, we {have to|hafta} finish‿it. || バニラアイス。覚えてる？ 食べ切らなきゃいけないんだから。
+B: Then we can ge(t) chocolate! || そしたらチョコが買えるね！
+A: Exactly. Bu(t) first, help me clear the table. || その通り。でも先に、テーブルを片づけるのを手伝って。
+B: Do‿I have to wash the dishes too? || お皿も洗わなきゃだめ？
+A: Jus(t) bring them to the sink. I'll wash them. || 流しに持ってきてくれるだけでいいよ。洗うのはパパがやる。
+B: Okay! That's easy. || わかった！ それなら簡単。
+
+## After dinner, on the couch || 夕食のあと、ソファで
+B: Dad, wha⟨t⟩ were you like when you were‿a kid? || パパ、子どものころってどんな感じだったの？
+A: Hmm. I was pre⟨tt⟩y shy, actually. || うーん。実はけっこう人見知りだったんだ。
+B: Really? You're no(t) shy now. || ほんと？ いまは人見知りじゃないのに。
+A: Well, I go(t) better. Bu⟨t⟩ when‿I was your age, I didn'(t) talk much at school. || まあ、だんだん慣れたんだよ。でも、きみの歳のころは、学校であまりしゃべらなかったんだ。
+B: Did you have friends? || 友だちはいた？
+A: A few. I had one bes(t) friend. His name was Ken. || 何人かね。親友がひとりいた。ケンっていう名前だった。
+B: Wha⟨t⟩ did you do together? || 一緒に何してたの？
+A: We rode our bikes everywhere. And we built a li⟨tt⟩le house in the woods. || どこへでも自転車で行ったよ。それに、森の中に小さな小屋を作ったんだ。
+B: A real house? || 本物の家？
+A: No(t) really. It was more like‿a pile of sticks. Bu⟨t⟩ we loved‿it. || 本物ってわけじゃないよ。木の枝の山みたいなものだった。でも、大好きだったんだ。
+B: Can we build one? || 一緒に作れる？
+A: Maybe. We'd need to find‿a good spot. || たぶんね。いい場所を見つけないと。
+B: Wha⟨t⟩ abou(t) the backyard? || 裏庭は？
+A: The backyard? Wha⟨t⟩ abou(t) the giant cat? || 裏庭？ 大きな猫はどうするの？
+B: Dad! Tha⟨t⟩ was‿a dream! || パパ！ あれは夢だよ！
+A: I know, I know. Okay, maybe we can build‿a small one in the corner. || わかってる、わかってる。じゃあ、すみっこに小さいのを作れるかもね。
+B: With‿a door? || ドアもつける？
+A: With‿a door. And maybe‿a window. || ドアもつけよう。窓もつけられるかもね。
+B: This is {going to|gonna} be the bes(t) house ever. || 今までで最高の家になるね。
+A: We'll see. Firs(t), bath time. || どうかな。まずはお風呂の時間。
+
+## Riley alone, playing in the bedroom || リリーひとり、部屋で遊んでいる
+B: Okay, everybody. Time for school. || はい、みんな。学校の時間ですよ。
+B: Teddy, you sit here. Bunny, you sit nex(t) to Teddy. || テディはここに座って。うさぎさんはテディの隣ね。
+B: And Duck... where's Duck? || それからアヒルさんは……アヒルさんはどこ？
+B: Oh, right. Duck's in the bathroom. For the bath. || あ、そうだ。アヒルさんはお風呂場だ。お風呂用だから。
+B: That's okay. Duck can come la⟨t⟩er. || いいや。アヒルさんはあとで来ればいいよ。
+B: Good morning, class. Today we're {going to|gonna} learn abou(t) leaves. || おはようございます、みなさん。今日は葉っぱについて勉強します。
+B: Does anybody know why leaves change color? || 葉っぱの色がどうして変わるか、知ってる人？
+B: No? Okay, I'll tell you. || いない？ じゃあ、教えてあげます。
+B: Trees make food from sunligh⟨t⟩‿and wa⟨t⟩er. Tha⟨t⟩'s why they're green. || 木は日の光と水から栄養を作ります。だから緑色なんです。
+B: And when‿it gets cold, they stop. So the green goes‿away. || それで、寒くなると作るのをやめます。だから緑がなくなるんです。
+B: Teddy, are you listening? You look sleepy. || テディ、聞いてる？ 眠そうだよ。
+B: Okay, maybe you need‿a snack. Here's a cookie. || じゃあ、おやつが要るのかな。はい、クッキー。
+B: It's not‿a real cookie. It's pretend. || 本物のクッキーじゃないよ。ごっこだからね。
+B: Bunny, do you want one too? || うさぎさんも欲しい？
+B: Okay. One for you, too. Bu⟨t⟩ only one. Cookies are for after lunch. || はい。うさぎさんにも1枚。でも1枚だけね。クッキーはお昼のあとなんだから。
+B: Now, homework. Draw‿a picture of the park. || じゃあ、宿題です。公園の絵を描いてきてください。
+B: Wait, I should do that too. Where are my crayons? || 待って、自分も描かなきゃ。クレヨンどこだっけ？
+B: Dad! Have you seen my crayons? || パパー！ クレヨン見なかった？
+
+## Bath time and bedtime || お風呂と寝る時間
+A: Okay, bath time. || よし、お風呂の時間だよ。
+B: Five more minutes? I'm drawing something. || あと5分いい？ いま絵を描いてるの。
+A: Wha⟨t⟩‿are you drawing? || 何を描いてるの？
+B: The park. This is me on the swing, and this is Maya. || 公園。これがブランコに乗ってるところで、こっちがマヤ。
+A: And who's tha⟨t⟩‿on the bench? || じゃあ、ベンチにいるのは誰？
+B: That's you! You're reading your phone. || パパだよ！ スマホ見てるの。
+A: Hey, I was watching you the whole time. || ちょっと、ずっときみのこと見てたよ。
+B: Mos(t) of the time. || ほとんどの時間はね。
+A: Okay, fair. Bu⟨t⟩‿I saw the big slide. || まあ、それはそうだね。でも、大きいすべり台はちゃんと見たよ。
+B: You did. Okay, I'm done. Bath time. || 見てたね。よし、描けた。お風呂の時間。
+A: Do you {want to|wanna} take some toys‿in the bath? || お風呂におもちゃ持っていく？
+B: Yeah! My duck and my boat. || うん！ アヒルと船。
+A: Okay. Don'(t) splash too much this time. || わかった。今回はあんまりバシャバシャしないでね。
+B: I'll try. No promises. || がんばる。約束はできないけど。
+A: That's honest, a(t) least. || 正直なのはいいことだね。
+A: All righ(t). Pajamas on? || よし。パジャマ着た？
+B: Yep. The blue ones. || うん。青いやつ。
+A: Did you brush your teeth? || 歯みがきした？
+B: Um... not ye(t). || えっと……まだ。
+A: Go brush them. Two minutes. I'll set‿a timer. || みがいておいで。2分ね。タイマーかけるから。
+B: Wha⟨t⟩‿if I brush really fas(t)? || すっごく速くみがいたら？
+A: Then you brush for two minutes really fast. || じゃあ、2分間すっごく速くみがいてね。
+B: Dad! || パパ！
+A: Go on. I'll wait for you in your room. || ほら行って。部屋で待ってるから。
+B: Done! Smell. Minty. || できた！ におって。ミントのにおい。
+A: Very minty. Okay, into bed. || すごくミントだね。よし、ベッドに入って。
+B: Can you read me‿a story? || お話を読んでくれる？
+A: Sure. Which‿one? || いいよ。どれにする？
+B: The one abou(t) the bear who couldn'(t) sleep. || 眠れないくまのお話。
+A: Again? We read tha⟨t⟩‿one las(t) night. || また？ ゆうべも読んだよ。
+B: I know. Bu⟨t⟩‿it's my favorite. || わかってる。でも、いちばん好きなんだもん。
+A: Okay. "Once upon‿a time, there was‿a li⟨tt⟩le bear..." || わかった。「むかしむかし、小さなくまがいました……」
+B: Dad, wait. Can‿I ask you something first? || パパ、待って。先にひとつ聞いていい？
+A: Sure. What's up? || いいよ。どうしたの？
+B: Wha(t) was your favorite par(t) of today? || 今日いちばん楽しかったのはどこ？
+A: Hmm. Good question. I think... making pancakes with you. || うーん。いい質問だね。たぶん……きみと一緒にパンケーキを作ったことかな。
+B: Really? Not the park? || ほんと？ 公園じゃないの？
+A: The park was fun too. Bu(t) you flipped tha(t) pancake perfectly. || 公園も楽しかったよ。でも、きみがあのパンケーキを完璧にひっくり返したからね。
+B: I did, didn'(t) I? || そうだよね？
+A: You did. Wha⟨t⟩‿abou(t) you? Wha(t) was your favorite part? || そうだよ。きみは？ いちばん楽しかったのはどこ？
+B: The big slide. And the sweet potato fries. || 大きいすべり台。それと、さつまいものポテト。
+A: Two things? That's cheating. || 2つ？ それはずるいよ。
+B: Okay, the fries. No, the slide. Both! || じゃあ、ポテト。ううん、すべり台。両方！
+A: Okay, both. Now, the story. "Once upon‿a time..." || わかった、両方ね。じゃあ、お話。「むかしむかし……」
+B: Dad? || パパ？
+A: Yes? || なに？
+B: Can we go to the park again tomorrow? || 明日もまた公園に行ける？
+A: Tomorrow it's supposed to rain. || 明日は雨の予報なんだ。
+B: Oh no. Then wha(t) can we do? || えー。じゃあ何するの？
+A: We could bake cookies. || クッキーを焼くのはどう？
+B: Cookies! Can‿I crack the eggs again? || クッキー！ また卵割っていい？
+A: Of course. You're the egg expert now. || もちろん。もう卵のプロだからね。
+B: Yay. Okay. Now you can read. || やったー。よし。もう読んでいいよ。
+A: Thank you. "Once upon‿a time, there was‿a li⟨tt⟩le bear who couldn'(t) sleep..." || ありがとう。「むかしむかし、眠れない小さなくまがいました……」
+B: Dad... || パパ……
+A: Hmm? || うん？
+B: Good night. || おやすみ。
+A: Good night, sweetie. Sleep tight. || おやすみ。ぐっすり眠ってね。
+
+## Late at night — Dad alone in the living room || 夜遅く（父ひとり、リビングで）
+A: Asleep‿already. Tha(t) was fast. || もう寝ちゃった。早かったな。
+A: Okay. {Let me|Lemme} clean up‿a li⟨tt⟩le before‿I go to bed. || よし。寝る前にちょっと片づけよう。
+A: Toys‿in the box. Crayons back in the case. || おもちゃは箱に。クレヨンはケースに戻して。
+A: Oh, here's the drawing. The park. || お、さっきの絵だ。公園の。
+A: Me on the bench, looking‿a(t) my phone. Hmm. || ベンチでスマホを見てるパパか。うーん。
+A: Okay, fair enough. Nex(t) time, I'll leave my phone in my bag. || まあ、言われても仕方ない。次はスマホをかばんに入れておこう。
+A: {Let me|Lemme} put this on the fridge. It's {kind of|kinda} grea(t), actually. || これは冷蔵庫に貼っておこう。けっこういい絵だしな。
+A: Tomorrow... rain. Cookies. I need bu⟨tt⟩er and sugar. || 明日は……雨。クッキー。バターと砂糖が要るな。
+A: Do we have bu⟨tt⟩er? {Let me|Lemme} check. || バターあったっけ？ 見てみよう。
+A: Yeah, we have enough. And there's flour in the cabinet. || うん、足りる。小麦粉も戸棚にある。
+A: Chocolate chips? Hmm, no chocolate chips. || チョコチップは？ うーん、チョコチップはない。
+A: Riley's no(t) {going to|gonna} be happy abou(t) that. || リリーはがっかりするだろうな。
+A: Maybe I'll run to the store early in the morning. || 朝早く、ちょっとお店に行ってこようかな。
+A: Okay. Lights‿off. Doors locked. Keys... || よし。電気を消して。ドアの鍵よし。鍵は……
+A: ...in the same place as always. Right here by the door. || ……いつもと同じ場所に。ドアのそばのここに。
+A: Good nigh(t), house. || おやすみ、我が家。

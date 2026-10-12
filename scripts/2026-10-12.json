@@ -1,0 +1,2474 @@
+{
+ "id": "2026-10-12",
+ "title": "A Saturday with Dad",
+ "title_ja": "パパと過ごす土曜日",
+ "relation": "父と子ども",
+ "cast": {
+  "A": {
+   "name": "Dad",
+   "role_ja": "父",
+   "voice": "en-US-GuyNeural"
+  },
+  "B": {
+   "name": "Riley",
+   "role_ja": "子ども",
+   "voice": "en-US-AnaNeural"
+  }
+ },
+ "words": 3406,
+ "lines": [
+  {
+   "scene": "Saturday morning, the kitchen",
+   "ja": "土曜の朝、台所"
+  },
+  {
+   "s": "A",
+   "en": "Good morning, sleepyhead.",
+   "ja": "おはよう、ねぼすけさん。"
+  },
+  {
+   "s": "B",
+   "en": "Morning, Dad. What time‿is‿it?",
+   "ja": "おはよう、パパ。いま何時？"
+  },
+  {
+   "s": "A",
+   "en": "It's almos(t) nine. You slep(t) for a long time.",
+   "ja": "もうすぐ9時だよ。ずいぶん長く寝てたね。"
+  },
+  {
+   "s": "B",
+   "en": "I was really tired. And‿I had a weird dream.",
+   "ja": "すごく疲れてたんだ。それに、変な夢を見たの。"
+  },
+  {
+   "s": "A",
+   "en": "Oh yeah? Wha(t) was‿it about?",
+   "ja": "へえ、どんな夢？"
+  },
+  {
+   "s": "B",
+   "en": "There was a giant ca⟨t⟩‿in our backyard, and‿it tried to eat my lunch.",
+   "ja": "裏庭に大きな猫がいて、お昼ごはんを食べようとしてきたの。"
+  },
+  {
+   "s": "A",
+   "en": "A giant cat? That sounds {kind of|kinda} fun, actually.",
+   "ja": "大きな猫？ ちょっと楽しそうじゃない。"
+  },
+  {
+   "s": "B",
+   "en": "No, it wasn'(t) fun. I had to run away.",
+   "ja": "楽しくなかったよ。逃げなきゃいけなかったんだから。"
+  },
+  {
+   "s": "A",
+   "en": "Well, you're safe now. Are you hungry?",
+   "ja": "まあ、もう安心だよ。お腹すいてる？"
+  },
+  {
+   "s": "B",
+   "en": "Yeah, super hungry. Wha⟨t⟩‿are we having?",
+   "ja": "うん、すっごくすいてる。何食べるの？"
+  },
+  {
+   "s": "A",
+   "en": "I was thinking‿abou(t) making pancakes.",
+   "ja": "パンケーキを作ろうかなと思ってたんだ。"
+  },
+  {
+   "s": "B",
+   "en": "Pancakes! Can‿I help?",
+   "ja": "パンケーキ！ 手伝っていい？"
+  },
+  {
+   "s": "A",
+   "en": "Of course. Go wash your hands first.",
+   "ja": "もちろん。先に手を洗っておいで。"
+  },
+  {
+   "s": "B",
+   "en": "Okay. I'll be righ(t) back.",
+   "ja": "わかった。すぐ戻るね。"
+  },
+  {
+   "s": "A",
+   "en": "Take your time. I'll ge⟨t⟩‿everything ready.",
+   "ja": "ゆっくりでいいよ。パパは準備しておくから。"
+  },
+  {
+   "s": "B",
+   "en": "Done! Look, they're clean.",
+   "ja": "できた！ 見て、きれいでしょ。"
+  },
+  {
+   "s": "A",
+   "en": "Grea(t) job. Can you hand me the eggs? They're‿in the fridge.",
+   "ja": "えらい。卵を取ってくれる？ 冷蔵庫に入ってるから。"
+  },
+  {
+   "s": "B",
+   "en": "How many do you need?",
+   "ja": "いくつ要るの？"
+  },
+  {
+   "s": "A",
+   "en": "Just two. Be careful. Don'(t) drop them.",
+   "ja": "2個だけ。気をつけてね。落とさないように。"
+  },
+  {
+   "s": "B",
+   "en": "I won't. Here you go.",
+   "ja": "落とさないよ。はい、どうぞ。"
+  },
+  {
+   "s": "A",
+   "en": "Thanks. Now, do you {want to|wanna} crack them?",
+   "ja": "ありがとう。じゃあ、割ってみる？"
+  },
+  {
+   "s": "B",
+   "en": "Yes! Bu⟨t⟩ I always ge(t) shells‿in the bowl.",
+   "ja": "うん！ でも、いつも殻がボウルに入っちゃうんだよね。"
+  },
+  {
+   "s": "A",
+   "en": "That's okay. We can take them‿ou(t) with a spoon.",
+   "ja": "大丈夫。スプーンで取ればいいから。"
+  },
+  {
+   "s": "B",
+   "en": "Oops. There's a li⟨tt⟩le piece in there.",
+   "ja": "あっ。ちっちゃいかけらが入っちゃった。"
+  },
+  {
+   "s": "A",
+   "en": "No problem. Go⟨t⟩‿it. See? Easy.",
+   "ja": "問題なし。取れたよ。ね？ 簡単でしょ。"
+  },
+  {
+   "s": "B",
+   "en": "Wha(t) do we pu⟨t⟩‿in next?",
+   "ja": "次は何を入れるの？"
+  },
+  {
+   "s": "A",
+   "en": "Milk. Pour‿it slowly... slowly... perfect.",
+   "ja": "牛乳。ゆっくり注いで……ゆっくり……完璧。"
+  },
+  {
+   "s": "B",
+   "en": "Can‿I mix‿it?",
+   "ja": "混ぜていい？"
+  },
+  {
+   "s": "A",
+   "en": "Sure. Bu(t) not too hard, or‿it'll splash everywhere.",
+   "ja": "いいよ。でも強くやりすぎないでね。そこらじゅうに飛び散るから。"
+  },
+  {
+   "s": "B",
+   "en": "Like this?",
+   "ja": "こんな感じ？"
+  },
+  {
+   "s": "A",
+   "en": "Yeah, that's perfect. Keep going until‿it's smooth.",
+   "ja": "うん、ばっちり。なめらかになるまで混ぜ続けて。"
+  },
+  {
+   "s": "B",
+   "en": "My arm's ge⟨tt⟩ing tired.",
+   "ja": "腕が疲れてきた。"
+  },
+  {
+   "s": "A",
+   "en": "Wan(t) me to take over for a bit?",
+   "ja": "ちょっと代わろうか？"
+  },
+  {
+   "s": "B",
+   "en": "No, I can do‿it. I'm strong.",
+   "ja": "ううん、できる。力持ちだもん。"
+  },
+  {
+   "s": "A",
+   "en": "You sure are. Okay, I think it's ready.",
+   "ja": "ほんとだね。よし、もうできたと思う。"
+  },
+  {
+   "s": "B",
+   "en": "Can‿I pour‿it in the pan?",
+   "ja": "フライパンに流していい？"
+  },
+  {
+   "s": "A",
+   "en": "Let me do tha(t) part. The pan's really hot.",
+   "ja": "そこはパパがやるよ。フライパンがすごく熱いから。"
+  },
+  {
+   "s": "B",
+   "en": "Okay. Can‿I flip them, then?",
+   "ja": "わかった。じゃあ、ひっくり返すのはやっていい？"
+  },
+  {
+   "s": "A",
+   "en": "Hmm, maybe the las(t) one. I'll show you how.",
+   "ja": "うーん、最後の1枚ならいいかな。やり方を見せるね。"
+  },
+  {
+   "s": "B",
+   "en": "When do you flip‿it?",
+   "ja": "いつひっくり返すの？"
+  },
+  {
+   "s": "A",
+   "en": "When you see li⟨tt⟩le bubbles on top. See those?",
+   "ja": "上に小さい泡が出てきたら。ほら、見える？"
+  },
+  {
+   "s": "B",
+   "en": "Oh, yeah! There are lots‿of them.",
+   "ja": "あ、ほんとだ！ いっぱい出てる。"
+  },
+  {
+   "s": "A",
+   "en": "Now, slide the spatula under‿it and... flip!",
+   "ja": "じゃあ、フライ返しを下に入れて……ひっくり返す！"
+  },
+  {
+   "s": "B",
+   "en": "Whoa! It's so brown and pre⟨tt⟩y.",
+   "ja": "わあ！ こんがりしててきれい。"
+  },
+  {
+   "s": "A",
+   "en": "Tha(t) means it's done. Okay, your turn.",
+   "ja": "これで焼けたってこと。よし、次はきみの番。"
+  },
+  {
+   "s": "B",
+   "en": "I'm nervous. Wha(t)‿if‿it falls?",
+   "ja": "緊張する。落ちちゃったらどうしよう？"
+  },
+  {
+   "s": "A",
+   "en": "Then we'll eat‿a funny-looking pancake. No big deal.",
+   "ja": "そしたら、変な形のパンケーキを食べればいいよ。たいしたことじゃない。"
+  },
+  {
+   "s": "B",
+   "en": "Okay. One, two, three... I did‿it!",
+   "ja": "わかった。いち、にの、さん……できた！"
+  },
+  {
+   "s": "A",
+   "en": "Look‿a⟨t⟩ that! That's be⟨tt⟩er than mine.",
+   "ja": "見てごらん！ パパのよりうまいじゃない。"
+  },
+  {
+   "s": "B",
+   "en": "Can we have syrup?",
+   "ja": "シロップかけていい？"
+  },
+  {
+   "s": "A",
+   "en": "Sure, bu(t) just‿a li⟨tt⟩le.",
+   "ja": "いいよ。でも、ちょっとだけね。"
+  },
+  {
+   "s": "B",
+   "en": "How abou⟨t⟩‿a medium amount?",
+   "ja": "中くらいの量はどう？"
+  },
+  {
+   "s": "A",
+   "en": "Nice try. A li⟨tt⟩le.",
+   "ja": "うまいこと言うね。ちょっとだけ。"
+  },
+  {
+   "s": "B",
+   "en": "Okay, okay. These are so good, Dad.",
+   "ja": "はいはい。これ、すっごくおいしいよ、パパ。"
+  },
+  {
+   "s": "A",
+   "en": "Because you helped. Food tastes be⟨tt⟩er when you make‿it yourself.",
+   "ja": "きみが手伝ってくれたからだよ。自分で作ると、おいしく感じるんだ。"
+  },
+  {
+   "scene": "La⟨t⟩er — Dad alone, looking for the car keys",
+   "ja": "しばらくして（父ひとり、車の鍵を探している）"
+  },
+  {
+   "s": "A",
+   "en": "Okay, where did‿I pu(t) my keys?",
+   "ja": "さて、鍵をどこに置いたっけ？"
+  },
+  {
+   "s": "A",
+   "en": "They're usually right here by the door.",
+   "ja": "いつもはドアのそばのここにあるんだけどな。"
+  },
+  {
+   "s": "A",
+   "en": "Not‿in my jacket. Not‿in my bag.",
+   "ja": "ジャケットにもない。かばんにもない。"
+  },
+  {
+   "s": "A",
+   "en": "Did‿I leave them‿in the car? No, the car's locked.",
+   "ja": "車の中に置いてきた？ いや、車には鍵がかかってる。"
+  },
+  {
+   "s": "A",
+   "en": "Okay, think. When did‿I las(t) use them?",
+   "ja": "よし、考えよう。最後に使ったのはいつだ？"
+  },
+  {
+   "s": "A",
+   "en": "Las(t) night. I came home, I pu(t) the groceries on the counter...",
+   "ja": "ゆうべだ。家に帰って、買ったものをカウンターに置いて……"
+  },
+  {
+   "s": "A",
+   "en": "...and then‿I took‿ou(t) the trash.",
+   "ja": "……それからゴミを出したんだ。"
+  },
+  {
+   "s": "A",
+   "en": "Maybe I dropped them by the trash can?",
+   "ja": "ゴミ箱のそばに落としたのかな？"
+  },
+  {
+   "s": "A",
+   "en": "Ugh, I don'(t) {want to|wanna} go outside in my slippers.",
+   "ja": "うーん、スリッパのまま外に出たくないな。"
+  },
+  {
+   "s": "A",
+   "en": "Wait‿a second. What's this in my pocket?",
+   "ja": "ちょっと待った。ポケットに入ってるこれは何だ？"
+  },
+  {
+   "s": "A",
+   "en": "Oh, come on. They were‿in my pocket the whole time.",
+   "ja": "なんだよ。ずっとポケットに入ってたのか。"
+  },
+  {
+   "s": "A",
+   "en": "I need to star(t) pu⟨tt⟩ing them‿in the same place every time.",
+   "ja": "毎回同じ場所に置くようにしないとな。"
+  },
+  {
+   "s": "A",
+   "en": "Okay. Keys, wallet, phone. Go⟨t⟩ everything.",
+   "ja": "よし。鍵、財布、スマホ。全部ある。"
+  },
+  {
+   "scene": "Getting ready to go out",
+   "ja": "出かける準備"
+  },
+  {
+   "s": "A",
+   "en": "Riley, are you ready to go?",
+   "ja": "リリー、出かける準備できた？"
+  },
+  {
+   "s": "B",
+   "en": "Almost! I can'(t) find my other shoe.",
+   "ja": "もうちょっと！ 片方の靴が見つからないの。"
+  },
+  {
+   "s": "A",
+   "en": "Did you look under your bed?",
+   "ja": "ベッドの下は見た？"
+  },
+  {
+   "s": "B",
+   "en": "Yeah. It's no(t) there.",
+   "ja": "うん。そこにはないよ。"
+  },
+  {
+   "s": "A",
+   "en": "Wha⟨t⟩‿abou(t) the living room? You were playing there yesterday.",
+   "ja": "リビングは？ 昨日そこで遊んでたでしょ。"
+  },
+  {
+   "s": "B",
+   "en": "Oh, wait. Here‿it is! It was behind the couch.",
+   "ja": "あ、待って。あった！ ソファの後ろにあった。"
+  },
+  {
+   "s": "A",
+   "en": "Grea(t). Pu⟨t⟩‿it on, and let's go.",
+   "ja": "よかった。履いて、行こう。"
+  },
+  {
+   "s": "B",
+   "en": "Do‿I need‿a jacket?",
+   "ja": "ジャケット要る？"
+  },
+  {
+   "s": "A",
+   "en": "Yeah, it's {kind of|kinda} chilly this morning.",
+   "ja": "うん、今朝はちょっと肌寒いよ。"
+  },
+  {
+   "s": "B",
+   "en": "Bu⟨t⟩‿it's sunny.",
+   "ja": "でも、晴れてるよ。"
+  },
+  {
+   "s": "A",
+   "en": "I know, bu(t) the wind is cold. Trus(t) me.",
+   "ja": "わかってる。でも風が冷たいんだ。信じて。"
+  },
+  {
+   "s": "B",
+   "en": "Fine. Can‿I wear my red one?",
+   "ja": "いいよ。赤いのにしていい？"
+  },
+  {
+   "s": "A",
+   "en": "Sure. Where‿is‿it?",
+   "ja": "いいよ。どこにある？"
+  },
+  {
+   "s": "B",
+   "en": "On the hook. Can you ge⟨t⟩‿it for me? I can'(t) reach.",
+   "ja": "フックにかかってる。取ってくれる？ 届かないの。"
+  },
+  {
+   "s": "A",
+   "en": "Here you go. Do you have everything?",
+   "ja": "はい、どうぞ。全部持った？"
+  },
+  {
+   "s": "B",
+   "en": "I think so. Wai(t), can‿I bring my ball?",
+   "ja": "たぶん。待って、ボール持っていっていい？"
+  },
+  {
+   "s": "A",
+   "en": "Good idea. We're going to the park after all.",
+   "ja": "いいね。どうせ公園に行くんだし。"
+  },
+  {
+   "s": "B",
+   "en": "And my water bo⟨tt⟩le?",
+   "ja": "それと水筒も？"
+  },
+  {
+   "s": "A",
+   "en": "Already‿in my bag. I filled‿it up for you.",
+   "ja": "もうパパのかばんに入ってるよ。いっぱいに入れておいた。"
+  },
+  {
+   "s": "B",
+   "en": "Thanks, Dad.",
+   "ja": "ありがとう、パパ。"
+  },
+  {
+   "s": "A",
+   "en": "All righ(t). Shoes on, jacke⟨t⟩‿on, ball... let's go!",
+   "ja": "よし。靴よし、ジャケットよし、ボール……行こう！"
+  },
+  {
+   "s": "B",
+   "en": "Wait! I need to go to the bathroom.",
+   "ja": "待って！ トイレに行きたい。"
+  },
+  {
+   "s": "A",
+   "en": "Of course you do. Go ahead. I'll wait.",
+   "ja": "だよね。行っておいで。待ってるから。"
+  },
+  {
+   "scene": "On the walk to the park",
+   "ja": "公園までの道"
+  },
+  {
+   "s": "B",
+   "en": "Dad, can we walk instead of driving?",
+   "ja": "パパ、車じゃなくて歩いて行かない？"
+  },
+  {
+   "s": "A",
+   "en": "Sure. It's a nice day. And‿it's not that far.",
+   "ja": "いいよ。いい天気だし。それに、そんなに遠くないしね。"
+  },
+  {
+   "s": "B",
+   "en": "How long does‿it take?",
+   "ja": "どのくらいかかるの？"
+  },
+  {
+   "s": "A",
+   "en": "Abou(t) fifteen minutes. Maybe twenty, if we stop and look‿at everything.",
+   "ja": "15分くらい。いろいろ立ち止まって見てたら、20分かな。"
+  },
+  {
+   "s": "B",
+   "en": "Can‿I bounce my ball while we walk?",
+   "ja": "歩きながらボールついていい？"
+  },
+  {
+   "s": "A",
+   "en": "Not on this street. There are too many cars. Wai⟨t⟩‿until we ge(t) to the park.",
+   "ja": "この道はだめ。車が多すぎるからね。公園に着くまで待って。"
+  },
+  {
+   "s": "B",
+   "en": "Okay. Oh, look! It's Mr. Brown's dog!",
+   "ja": "わかった。あ、見て！ ブラウンさんの犬だ！"
+  },
+  {
+   "s": "A",
+   "en": "Hi, Mr. Brown. Beautiful morning, isn'(t) it?",
+   "ja": "おはようございます、ブラウンさん。いい朝ですね。"
+  },
+  {
+   "s": "B",
+   "en": "Can‿I pet him?",
+   "ja": "なでてもいい？"
+  },
+  {
+   "s": "A",
+   "en": "You have to ask Mr. Brown first.",
+   "ja": "まずブラウンさんに聞かないとね。"
+  },
+  {
+   "s": "B",
+   "en": "Mr. Brown, can‿I pet your dog? ... He said yes!",
+   "ja": "ブラウンさん、ワンちゃんなでていい？……いいって！"
+  },
+  {
+   "s": "A",
+   "en": "Gently. Le(t) him smell your hand firs(t).",
+   "ja": "やさしくね。先に手のにおいをかがせてあげて。"
+  },
+  {
+   "s": "B",
+   "en": "He's so soft. And his tail's wagging.",
+   "ja": "すっごくふわふわ。しっぽ振ってる。"
+  },
+  {
+   "s": "A",
+   "en": "Tha⟨t⟩ means he likes you. Okay, say bye. We {have to|hafta} keep going.",
+   "ja": "きみのことが好きってことだよ。よし、バイバイして。先に進まなきゃ。"
+  },
+  {
+   "s": "B",
+   "en": "Bye, buddy! See you la⟨t⟩er!",
+   "ja": "バイバイ、ワンちゃん！ またね！"
+  },
+  {
+   "s": "A",
+   "en": "Okay, we're crossing here. Hold my hand.",
+   "ja": "よし、ここで渡るよ。手をつないで。"
+  },
+  {
+   "s": "B",
+   "en": "I know. Look lef(t), look right, look left again.",
+   "ja": "わかってる。左を見て、右を見て、もう一回左。"
+  },
+  {
+   "s": "A",
+   "en": "Perfect. Who taugh(t) you that?",
+   "ja": "完璧。誰に教わったの？"
+  },
+  {
+   "s": "B",
+   "en": "My teacher. We practiced it a(t) school.",
+   "ja": "先生。学校で練習したの。"
+  },
+  {
+   "s": "A",
+   "en": "Good. Now let's go. Walk, don'(t) run.",
+   "ja": "えらい。じゃあ渡ろう。歩いてね、走らないで。"
+  },
+  {
+   "s": "B",
+   "en": "Dad, why‿is tha(t) house so big?",
+   "ja": "パパ、どうしてあの家はあんなに大きいの？"
+  },
+  {
+   "s": "A",
+   "en": "I don'(t) know. Maybe a big family lives there.",
+   "ja": "わからないな。大家族が住んでるのかもね。"
+  },
+  {
+   "s": "B",
+   "en": "Like, ten people?",
+   "ja": "10人とか？"
+  },
+  {
+   "s": "A",
+   "en": "Maybe. Or maybe they jus(t) like big houses.",
+   "ja": "かもね。それか、ただ大きい家が好きなのかも。"
+  },
+  {
+   "s": "B",
+   "en": "I like our house. It's cozy.",
+   "ja": "うちの家が好き。居心地いいもん。"
+  },
+  {
+   "s": "A",
+   "en": "Me too. Oh, look. You can see the park from here.",
+   "ja": "パパも。あ、見て。ここから公園が見えるよ。"
+  },
+  {
+   "s": "B",
+   "en": "I'll race you to the gate!",
+   "ja": "門まで競走しよう！"
+  },
+  {
+   "s": "A",
+   "en": "Okay, bu⟨t⟩‿only on the sidewalk. Ready... go!",
+   "ja": "いいよ。でも歩道の上だけね。用意……どん！"
+  },
+  {
+   "scene": "At the park",
+   "ja": "公園で"
+  },
+  {
+   "s": "B",
+   "en": "Dad, look! The swings are free!",
+   "ja": "パパ、見て！ ブランコが空いてる！"
+  },
+  {
+   "s": "A",
+   "en": "Go ahead. I'll be righ(t) there.",
+   "ja": "行っておいで。すぐ行くから。"
+  },
+  {
+   "s": "B",
+   "en": "Can you push me?",
+   "ja": "押してくれる？"
+  },
+  {
+   "s": "A",
+   "en": "Sure. Hold‿on tight.",
+   "ja": "いいよ。しっかりつかまってね。"
+  },
+  {
+   "s": "B",
+   "en": "Higher! Higher!",
+   "ja": "もっと高く！ もっと高く！"
+  },
+  {
+   "s": "A",
+   "en": "Okay, bu(t) not too high. Keep holding‿on.",
+   "ja": "わかった。でも高すぎないようにね。つかまったままでいて。"
+  },
+  {
+   "s": "B",
+   "en": "I can see the whole park from up here!",
+   "ja": "ここから公園がぜんぶ見える！"
+  },
+  {
+   "s": "A",
+   "en": "Wha(t) can you see?",
+   "ja": "何が見える？"
+  },
+  {
+   "s": "B",
+   "en": "The pond, the slide, and... there's Maya!",
+   "ja": "池と、すべり台と……マヤがいる！"
+  },
+  {
+   "s": "A",
+   "en": "Your friend from school?",
+   "ja": "学校のお友だち？"
+  },
+  {
+   "s": "B",
+   "en": "Yeah! Can‿I go say hi?",
+   "ja": "うん！ あいさつしてきていい？"
+  },
+  {
+   "s": "A",
+   "en": "Sure. Bu(t) stay where‿I can see you.",
+   "ja": "いいよ。でも、パパから見えるところにいてね。"
+  },
+  {
+   "s": "B",
+   "en": "I will. Maya! Over here!",
+   "ja": "うん。マヤー！ こっちだよ！"
+  },
+  {
+   "s": "A",
+   "en": "Have fun. I'll be sitting‿on tha(t) bench.",
+   "ja": "楽しんでおいで。パパはあのベンチに座ってるから。"
+  },
+  {
+   "scene": "Back at the bench",
+   "ja": "ベンチに戻って"
+  },
+  {
+   "s": "B",
+   "en": "Dad, can Maya and‿I play on the slide?",
+   "ja": "パパ、マヤとすべり台で遊んでいい？"
+  },
+  {
+   "s": "A",
+   "en": "Of course. Did you say hi to her dad?",
+   "ja": "もちろん。マヤのパパにあいさつした？"
+  },
+  {
+   "s": "B",
+   "en": "Oh, I forgo(t).",
+   "ja": "あ、忘れてた。"
+  },
+  {
+   "s": "A",
+   "en": "He's righ⟨t⟩‿over there. Go say hi.",
+   "ja": "すぐそこにいるよ。あいさつしておいで。"
+  },
+  {
+   "s": "B",
+   "en": "Okay. Be righ(t) back.",
+   "ja": "わかった。すぐ戻る。"
+  },
+  {
+   "s": "B",
+   "en": "I said hi. He said you can come over and talk to him.",
+   "ja": "あいさつしてきた。パパもこっちに来て話そうって。"
+  },
+  {
+   "s": "A",
+   "en": "Maybe la⟨t⟩er. Go play.",
+   "ja": "あとでね。遊んでおいで。"
+  },
+  {
+   "s": "B",
+   "en": "Dad! Watch me go down the big slide!",
+   "ja": "パパ！ 大きいすべり台をすべるとこ見てて！"
+  },
+  {
+   "s": "A",
+   "en": "I'm watching! Go for‿it!",
+   "ja": "見てるよ！ がんばれ！"
+  },
+  {
+   "s": "B",
+   "en": "Did you see that? I wen(t) so fast!",
+   "ja": "見た？ すっごく速かったでしょ！"
+  },
+  {
+   "s": "A",
+   "en": "I saw‿it. Tha(t) was‿awesome.",
+   "ja": "見たよ。すごかった。"
+  },
+  {
+   "s": "B",
+   "en": "Can‿I go again?",
+   "ja": "もう1回いい？"
+  },
+  {
+   "s": "A",
+   "en": "Sure. A few more times, and then we {have to|hafta} go to the store.",
+   "ja": "いいよ。あと何回かね。そのあとお店に行かなきゃいけないから。"
+  },
+  {
+   "s": "B",
+   "en": "Aw, already?",
+   "ja": "えー、もう？"
+  },
+  {
+   "s": "A",
+   "en": "We'll come back nex(t) weekend. I promise.",
+   "ja": "来週末にまた来るよ。約束する。"
+  },
+  {
+   "s": "B",
+   "en": "Can Maya come too?",
+   "ja": "マヤも来ていい？"
+  },
+  {
+   "s": "A",
+   "en": "We can ask her dad.",
+   "ja": "マヤのパパに聞いてみよう。"
+  },
+  {
+   "s": "B",
+   "en": "Yay!",
+   "ja": "やったー！"
+  },
+  {
+   "s": "A",
+   "en": "Okay. Three more times. Then we're leaving.",
+   "ja": "よし。あと3回。そしたら帰るよ。"
+  },
+  {
+   "s": "B",
+   "en": "Can‿I have a snack first? I'm starving.",
+   "ja": "先におやつ食べていい？ お腹ぺこぺこ。"
+  },
+  {
+   "s": "A",
+   "en": "You jus(t) had breakfas(t) two hours‿ago.",
+   "ja": "2時間前に朝ごはん食べたばっかりだよ。"
+  },
+  {
+   "s": "B",
+   "en": "Bu⟨t⟩‿I played a lot.",
+   "ja": "でも、いっぱい遊んだもん。"
+  },
+  {
+   "s": "A",
+   "en": "That's true. Here, have‿an apple.",
+   "ja": "それもそうだね。ほら、りんごをどうぞ。"
+  },
+  {
+   "s": "B",
+   "en": "Can‿I have the cookies instead?",
+   "ja": "代わりにクッキーがいいな。"
+  },
+  {
+   "s": "A",
+   "en": "Apple now, cookies la⟨t⟩er.",
+   "ja": "いまはりんご、クッキーはあとで。"
+  },
+  {
+   "s": "B",
+   "en": "Okay. This apple's really good, actually.",
+   "ja": "わかった。このりんご、実はすごくおいしい。"
+  },
+  {
+   "s": "A",
+   "en": "See? Told you.",
+   "ja": "ほらね。言ったでしょ。"
+  },
+  {
+   "s": "B",
+   "en": "Dad, why do leaves change color?",
+   "ja": "パパ、どうして葉っぱの色が変わるの？"
+  },
+  {
+   "s": "A",
+   "en": "Good question. When‿it gets cold, the trees stop making food in their leaves.",
+   "ja": "いい質問だね。寒くなると、木は葉っぱで栄養を作るのをやめるんだ。"
+  },
+  {
+   "s": "B",
+   "en": "Trees make food?",
+   "ja": "木って栄養を作るの？"
+  },
+  {
+   "s": "A",
+   "en": "Yeah, from sunligh⟨t⟩‿and wa⟨t⟩er. The green color comes from tha(t).",
+   "ja": "そう、日の光と水からね。緑色はそこから来てるんだ。"
+  },
+  {
+   "s": "B",
+   "en": "So when they stop, the green goes‿away?",
+   "ja": "じゃあ、作るのをやめると緑がなくなるの？"
+  },
+  {
+   "s": "A",
+   "en": "Exactly. And then you see the red and yellow underneath.",
+   "ja": "その通り。そうすると、下にあった赤や黄色が見えてくるんだ。"
+  },
+  {
+   "s": "B",
+   "en": "That's so cool.",
+   "ja": "すっごくおもしろいね。"
+  },
+  {
+   "s": "A",
+   "en": "Pre⟨tt⟩y cool, righ(t)? Okay, three more slides.",
+   "ja": "なかなかおもしろいでしょ？ よし、すべり台あと3回。"
+  },
+  {
+   "s": "B",
+   "en": "Then cookies?",
+   "ja": "そしたらクッキー？"
+  },
+  {
+   "s": "A",
+   "en": "Then the store. Cookies after lunch.",
+   "ja": "そしたらお店。クッキーはお昼のあと。"
+  },
+  {
+   "s": "B",
+   "en": "Deal!",
+   "ja": "決まり！"
+  },
+  {
+   "scene": "At the grocery store",
+   "ja": "スーパーで"
+  },
+  {
+   "s": "A",
+   "en": "Okay, we need milk, bread, eggs, and some vegetables.",
+   "ja": "よし、牛乳とパンと卵と、それから野菜を少し。"
+  },
+  {
+   "s": "B",
+   "en": "Can‿I push the cart?",
+   "ja": "カート押していい？"
+  },
+  {
+   "s": "A",
+   "en": "Sure. Jus(t) be careful. Don'(t) hit‿anyone.",
+   "ja": "いいよ。気をつけてね。人にぶつからないように。"
+  },
+  {
+   "s": "B",
+   "en": "I won't. Beep beep! Coming through!",
+   "ja": "ぶつからないよ。ピーピー！ 通りまーす！"
+  },
+  {
+   "s": "A",
+   "en": "Not so fast. Slow down a li⟨tt⟩le.",
+   "ja": "そんなに速くしないで。ちょっとゆっくり。"
+  },
+  {
+   "s": "B",
+   "en": "Sorry. Where do we go first?",
+   "ja": "ごめん。最初はどこに行くの？"
+  },
+  {
+   "s": "A",
+   "en": "Let's star(t) with the vegetables. Can you grab some carrots?",
+   "ja": "野菜から始めよう。にんじんを取ってくれる？"
+  },
+  {
+   "s": "B",
+   "en": "How many?",
+   "ja": "いくつ？"
+  },
+  {
+   "s": "A",
+   "en": "One bag. The small one is fine.",
+   "ja": "1袋。小さいのでいいよ。"
+  },
+  {
+   "s": "B",
+   "en": "Got‿it. Dad, wha⟨t⟩‿are those?",
+   "ja": "わかった。パパ、あれなに？"
+  },
+  {
+   "s": "A",
+   "en": "Those are sweet potatoes. {Want to|Wanna} try them tonight?",
+   "ja": "あれはさつまいもだよ。今夜食べてみる？"
+  },
+  {
+   "s": "B",
+   "en": "Are they sweet?",
+   "ja": "甘いの？"
+  },
+  {
+   "s": "A",
+   "en": "Yeah, they're pre⟨tt⟩y sweet. You can have them like fries.",
+   "ja": "うん、けっこう甘いよ。フライドポテトみたいにして食べられるんだ。"
+  },
+  {
+   "s": "B",
+   "en": "Sweet potato fries? Yes, please!",
+   "ja": "さつまいものポテト？ うん、食べたい！"
+  },
+  {
+   "s": "A",
+   "en": "Okay. Pick two good ones.",
+   "ja": "よし。いいのを2つ選んで。"
+  },
+  {
+   "s": "B",
+   "en": "How do‿I know which ones are good?",
+   "ja": "どれがいいのか、どうやってわかるの？"
+  },
+  {
+   "s": "A",
+   "en": "Look for ones withou⟨t⟩‿any soft spots. And not too big.",
+   "ja": "やわらかいところがないのを探して。あと、大きすぎないの。"
+  },
+  {
+   "s": "B",
+   "en": "This one?",
+   "ja": "これは？"
+  },
+  {
+   "s": "A",
+   "en": "Perfect. One more.",
+   "ja": "完璧。もう1つ。"
+  },
+  {
+   "s": "B",
+   "en": "This one has‿a weird shape.",
+   "ja": "これ、変な形してる。"
+  },
+  {
+   "s": "A",
+   "en": "That's okay. Shape doesn'(t) matter. It'll taste the same.",
+   "ja": "それでいいよ。形は関係ない。味は同じだから。"
+  },
+  {
+   "s": "B",
+   "en": "Now milk?",
+   "ja": "次は牛乳？"
+  },
+  {
+   "s": "A",
+   "en": "Yep. It's all the way‿in the back.",
+   "ja": "うん。いちばん奥にあるよ。"
+  },
+  {
+   "s": "B",
+   "en": "Why‿is the milk always‿in the back?",
+   "ja": "どうして牛乳っていつもいちばん奥にあるの？"
+  },
+  {
+   "s": "A",
+   "en": "So people walk past everything else and buy more stuff.",
+   "ja": "みんながほかの物の前を通って、もっと買うようにだよ。"
+  },
+  {
+   "s": "B",
+   "en": "That's sneaky.",
+   "ja": "ずるいね。"
+  },
+  {
+   "s": "A",
+   "en": "Yeah, it {kind of|kinda} is.",
+   "ja": "うん、ちょっとね。"
+  },
+  {
+   "s": "B",
+   "en": "Dad, can we ge⟨t⟩‿ice cream?",
+   "ja": "パパ、アイス買っていい？"
+  },
+  {
+   "s": "A",
+   "en": "Hmm. We still have some‿a(t) home.",
+   "ja": "うーん。家にまだ残ってるよ。"
+  },
+  {
+   "s": "B",
+   "en": "Bu(t) that's vanilla. I wan(t) chocolate.",
+   "ja": "でも、それバニラでしょ。チョコがいい。"
+  },
+  {
+   "s": "A",
+   "en": "Let's finish the vanilla first. Then we'll ge(t) chocolate nex(t) time.",
+   "ja": "先にバニラを食べ切ろう。そしたら次はチョコを買おう。"
+  },
+  {
+   "s": "B",
+   "en": "Promise?",
+   "ja": "約束？"
+  },
+  {
+   "s": "A",
+   "en": "Promise.",
+   "ja": "約束。"
+  },
+  {
+   "s": "B",
+   "en": "Okay. What's nex(t) on the list?",
+   "ja": "わかった。リストの次は何？"
+  },
+  {
+   "s": "A",
+   "en": "Bread. Can you read it for me?",
+   "ja": "パン。読んでくれる？"
+  },
+  {
+   "s": "B",
+   "en": "B-R-E-A-D. Bread! And then... eggs.",
+   "ja": "ビー、アール、イー、エー、ディー。パン！ それから……卵。"
+  },
+  {
+   "s": "A",
+   "en": "Grea(t) reading. Let's go ge(t) {them|'em}.",
+   "ja": "上手に読めたね。取りに行こう。"
+  },
+  {
+   "s": "B",
+   "en": "Can‿I carry the eggs?",
+   "ja": "卵、持っていい？"
+  },
+  {
+   "s": "A",
+   "en": "Hmm. Okay, bu(t) hold them with both hands.",
+   "ja": "うーん。いいよ。でも両手で持ってね。"
+  },
+  {
+   "s": "B",
+   "en": "I'm being super careful. Look.",
+   "ja": "すっごく気をつけてるよ。見て。"
+  },
+  {
+   "s": "A",
+   "en": "I see. Good job. Let's go pay.",
+   "ja": "わかってる。えらいね。お会計に行こう。"
+  },
+  {
+   "s": "B",
+   "en": "Can‿I put the stuff‿on the belt?",
+   "ja": "品物をベルトに乗せていい？"
+  },
+  {
+   "s": "A",
+   "en": "Sure. Heavy things first, eggs las(t).",
+   "ja": "いいよ。重いものから先に、卵は最後ね。"
+  },
+  {
+   "s": "B",
+   "en": "Why eggs las(t)?",
+   "ja": "どうして卵は最後なの？"
+  },
+  {
+   "s": "A",
+   "en": "So they don'(t) ge(t) crushed in the bag.",
+   "ja": "袋の中でつぶれないようにだよ。"
+  },
+  {
+   "s": "B",
+   "en": "Oh, that makes sense.",
+   "ja": "あ、なるほど。"
+  },
+  {
+   "s": "A",
+   "en": "Okay, that's everything. Thanks for helping.",
+   "ja": "よし、これで全部。手伝ってくれてありがとう。"
+  },
+  {
+   "s": "B",
+   "en": "Can we ge(t) lunch now? I'm hungry again.",
+   "ja": "もうお昼にしていい？ またお腹すいた。"
+  },
+  {
+   "s": "A",
+   "en": "Already? Okay, let's go home and make sandwiches.",
+   "ja": "もう？ わかった。家に帰ってサンドイッチを作ろう。"
+  },
+  {
+   "scene": "Lunch at home",
+   "ja": "家でお昼ごはん"
+  },
+  {
+   "s": "B",
+   "en": "Can‿I make my own sandwich?",
+   "ja": "自分のサンドイッチ、自分で作っていい？"
+  },
+  {
+   "s": "A",
+   "en": "Sure. Wha(t) do you {want to|wanna} put‿in it?",
+   "ja": "いいよ。何をはさみたい？"
+  },
+  {
+   "s": "B",
+   "en": "Ham, cheese, and... cookies?",
+   "ja": "ハムとチーズと……クッキー？"
+  },
+  {
+   "s": "A",
+   "en": "Nice try. Cookies are for after lunch.",
+   "ja": "うまいこと言うね。クッキーはお昼のあと。"
+  },
+  {
+   "s": "B",
+   "en": "Fine. Ham and cheese, then.",
+   "ja": "わかった。じゃあハムとチーズ。"
+  },
+  {
+   "s": "A",
+   "en": "Do you {want to|wanna} add some le⟨tt⟩uce?",
+   "ja": "レタスも入れる？"
+  },
+  {
+   "s": "B",
+   "en": "No thanks. Le⟨tt⟩uce is boring.",
+   "ja": "いらない。レタスはつまんない。"
+  },
+  {
+   "s": "A",
+   "en": "Okay, bu(t) you're eating carrots with dinner tonight.",
+   "ja": "わかった。でも、夜ごはんにはにんじんを食べるんだよ。"
+  },
+  {
+   "s": "B",
+   "en": "With the sweet potatoes?",
+   "ja": "さつまいもと一緒に？"
+  },
+  {
+   "s": "A",
+   "en": "Yep. With the sweet potatoes.",
+   "ja": "うん。さつまいもと一緒に。"
+  },
+  {
+   "s": "B",
+   "en": "Okay. That's fair.",
+   "ja": "わかった。それならいいよ。"
+  },
+  {
+   "s": "A",
+   "en": "How's your sandwich?",
+   "ja": "サンドイッチはどう？"
+  },
+  {
+   "s": "B",
+   "en": "Really good. Can‿I have the cookies now?",
+   "ja": "すっごくおいしい。もうクッキー食べていい？"
+  },
+  {
+   "s": "A",
+   "en": "Finish your sandwich first.",
+   "ja": "先にサンドイッチを食べ終わってね。"
+  },
+  {
+   "s": "B",
+   "en": "Done!",
+   "ja": "食べた！"
+  },
+  {
+   "s": "A",
+   "en": "Wow, tha(t) was fast. Okay, two cookies.",
+   "ja": "わあ、速いね。よし、クッキー2枚。"
+  },
+  {
+   "s": "B",
+   "en": "Only two?",
+   "ja": "2枚だけ？"
+  },
+  {
+   "s": "A",
+   "en": "Only two. And then quie(t) time.",
+   "ja": "2枚だけ。そのあとは静かに過ごす時間。"
+  },
+  {
+   "s": "B",
+   "en": "Can‿I watch‿a movie?",
+   "ja": "映画見ていい？"
+  },
+  {
+   "s": "A",
+   "en": "How abou(t) reading‿a book instead?",
+   "ja": "代わりに本を読むのはどう？"
+  },
+  {
+   "s": "B",
+   "en": "Can we read together?",
+   "ja": "一緒に読んでくれる？"
+  },
+  {
+   "s": "A",
+   "en": "Sure. Go pick‿one.",
+   "ja": "いいよ。1冊選んでおいで。"
+  },
+  {
+   "scene": "Quiet time — reading together",
+   "ja": "静かに過ごす時間（一緒に本を読む）"
+  },
+  {
+   "s": "B",
+   "en": "I picked this one. It's abou⟨t⟩‿a dragon who's afraid of fire.",
+   "ja": "これにした。火がこわいドラゴンのお話。"
+  },
+  {
+   "s": "A",
+   "en": "A dragon who's afraid of fire? Tha⟨t⟩'s new.",
+   "ja": "火がこわいドラゴン？ 新しいね。"
+  },
+  {
+   "s": "B",
+   "en": "Can‿I read the firs(t) page?",
+   "ja": "最初のページ、読んでいい？"
+  },
+  {
+   "s": "A",
+   "en": "Sure. Go ahead. I'll help if you ge(t) stuck.",
+   "ja": "いいよ。どうぞ。つっかえたら手伝うから。"
+  },
+  {
+   "s": "B",
+   "en": "\"Once there was a dragon named Pip. Pip lived in‿a cave on top of a mountain.\"",
+   "ja": "「あるところに、ピップという名前のドラゴンがいました。ピップは山の上のほら穴に住んでいました。」"
+  },
+  {
+   "s": "A",
+   "en": "Nice reading. Keep going.",
+   "ja": "上手だね。続けて。"
+  },
+  {
+   "s": "B",
+   "en": "\"All the other dragons could breathe fire. Bu⟨t⟩ Pip was scared of it.\"",
+   "ja": "「ほかのドラゴンはみんな火をふけました。でも、ピップは火がこわかったのです。」"
+  },
+  {
+   "s": "B",
+   "en": "Dad, what does \"breathe\" mean?",
+   "ja": "パパ、「ブリーズ」ってどういう意味？"
+  },
+  {
+   "s": "A",
+   "en": "It means to take air in and pu⟨t⟩‿it out. Like this. In... and out.",
+   "ja": "空気を吸って、吐き出すことだよ。こんなふうに。吸って……吐いて。"
+  },
+  {
+   "s": "B",
+   "en": "Oh. So the dragons breathe out fire instead‿of air?",
+   "ja": "あ、そっか。じゃあドラゴンは空気の代わりに火を吐くんだね？"
+  },
+  {
+   "s": "A",
+   "en": "Exactly. Wha⟨t⟩ happens next?",
+   "ja": "その通り。次はどうなるの？"
+  },
+  {
+   "s": "B",
+   "en": "You read now. My throat's tired.",
+   "ja": "今度はパパが読んで。のどが疲れちゃった。"
+  },
+  {
+   "s": "A",
+   "en": "Okay. \"One day, a big storm came. The wind was cold, and all the dragons were shivering.\"",
+   "ja": "いいよ。「ある日、大きな嵐がやってきました。風は冷たく、ドラゴンたちはみんな震えていました。」"
+  },
+  {
+   "s": "A",
+   "en": "\"'We need‿a fire to stay warm,' said the oldest dragon. Bu⟨t⟩ everyone was too tired.\"",
+   "ja": "「『あたたまるには火が要る』と、いちばん年上のドラゴンが言いました。でも、みんな疲れ切っていました。」"
+  },
+  {
+   "s": "B",
+   "en": "Uh-oh. Is Pip {going to|gonna} do‿it?",
+   "ja": "あれ、ピップがやるのかな？"
+  },
+  {
+   "s": "A",
+   "en": "Let's see. \"Pip took‿a deep breath. Pip was scared, bu⟨t⟩ Pip tried anyway.\"",
+   "ja": "見てみよう。「ピップは深く息を吸いました。こわかったけれど、それでもやってみました。」"
+  },
+  {
+   "s": "A",
+   "en": "\"And‿a tiny flame came out. Then a bigger one. Soon, the whole cave was warm.\"",
+   "ja": "「すると、小さな炎が出てきました。それから、もっと大きな炎も。やがて、ほら穴全体があたたかくなりました。」"
+  },
+  {
+   "s": "B",
+   "en": "Yay, Pip!",
+   "ja": "やったね、ピップ！"
+  },
+  {
+   "s": "A",
+   "en": "\"From that day on, Pip wasn'(t) afraid of fire anymore.\" The end.",
+   "ja": "「その日から、ピップはもう火をこわがらなくなりました。」おしまい。"
+  },
+  {
+   "s": "B",
+   "en": "I like that story. Pip was brave.",
+   "ja": "このお話好き。ピップは勇敢だったね。"
+  },
+  {
+   "s": "A",
+   "en": "Yeah. Being brave doesn'(t) mean you're no(t) scared. It means you try anyway.",
+   "ja": "そうだね。勇敢っていうのは、こわくないってことじゃないんだ。それでもやってみるってことなんだよ。"
+  },
+  {
+   "s": "B",
+   "en": "Like me with the pancake?",
+   "ja": "パンケーキのときみたいに？"
+  },
+  {
+   "s": "A",
+   "en": "Exactly like you with the pancake.",
+   "ja": "まさにパンケーキのときのきみみたいにね。"
+  },
+  {
+   "s": "B",
+   "en": "Can we read another one?",
+   "ja": "もう1冊読める？"
+  },
+  {
+   "s": "A",
+   "en": "One more, and then‿I {have to|hafta} start the laundry.",
+   "ja": "あと1冊ね。そしたらパパは洗濯を始めなきゃ。"
+  },
+  {
+   "scene": "Folding the laundry together",
+   "ja": "一緒に洗濯物をたたむ"
+  },
+  {
+   "s": "A",
+   "en": "Riley, can you come help me for a minute?",
+   "ja": "リリー、ちょっと手伝ってくれる？"
+  },
+  {
+   "s": "B",
+   "en": "Wha⟨t⟩‿are you doing?",
+   "ja": "何してるの？"
+  },
+  {
+   "s": "A",
+   "en": "Folding the laundry. There's a lo⟨t⟩‿of it.",
+   "ja": "洗濯物をたたんでるの。たくさんあるんだ。"
+  },
+  {
+   "s": "B",
+   "en": "Can‿I do the socks?",
+   "ja": "靴下やっていい？"
+  },
+  {
+   "s": "A",
+   "en": "Sure. Find the pairs and put them together.",
+   "ja": "いいよ。ペアを見つけて、まとめてね。"
+  },
+  {
+   "s": "B",
+   "en": "This one's blue with stars. Where's the other‿one?",
+   "ja": "これ、星がついた青いやつ。もう片方はどこ？"
+  },
+  {
+   "s": "A",
+   "en": "Maybe‿it's still in the dryer. Can you check?",
+   "ja": "まだ乾燥機の中かもね。見てくれる？"
+  },
+  {
+   "s": "B",
+   "en": "Found‿it! It was stuck to a towel.",
+   "ja": "あった！ タオルにくっついてた。"
+  },
+  {
+   "s": "A",
+   "en": "Nice. Okay, how abou(t) these white ones?",
+   "ja": "いいね。じゃあ、この白いのは？"
+  },
+  {
+   "s": "B",
+   "en": "They all look the same.",
+   "ja": "全部同じに見える。"
+  },
+  {
+   "s": "A",
+   "en": "Tha⟨t⟩'s the good thing abou(t) white socks. Any two‿are a pair.",
+   "ja": "白い靴下のいいところはそこだよ。どの2つでもペアになるんだ。"
+  },
+  {
+   "s": "B",
+   "en": "Haha. Okay, done with the socks.",
+   "ja": "あはは。よし、靴下終わり。"
+  },
+  {
+   "s": "A",
+   "en": "Grea(t). Can you fold the towels? Like this. In half, and then in half again.",
+   "ja": "ばっちり。タオルもたたんでくれる？ こうやって。半分に折って、もう一回半分。"
+  },
+  {
+   "s": "B",
+   "en": "Like this? It looks‿a li⟨tt⟩le messy.",
+   "ja": "こう？ ちょっとぐちゃぐちゃ。"
+  },
+  {
+   "s": "A",
+   "en": "Tha⟨t⟩'s fine. It doesn'(t) have to be perfect.",
+   "ja": "大丈夫。完璧じゃなくていいんだよ。"
+  },
+  {
+   "s": "B",
+   "en": "Dad, why do we have so many towels?",
+   "ja": "パパ、どうしてうちにはこんなにタオルがあるの？"
+  },
+  {
+   "s": "A",
+   "en": "Good question. I think we keep buying new ones and never throw‿away the old ones.",
+   "ja": "いい質問だね。新しいのを買い続けて、古いのを捨てないからだと思う。"
+  },
+  {
+   "s": "B",
+   "en": "Can we use the old ones for something else?",
+   "ja": "古いのは何か別のことに使えないの？"
+  },
+  {
+   "s": "A",
+   "en": "Sure. We could use them for washing the car.",
+   "ja": "使えるよ。洗車に使えるね。"
+  },
+  {
+   "s": "B",
+   "en": "Can‿I help wash the car?",
+   "ja": "洗車、手伝っていい？"
+  },
+  {
+   "s": "A",
+   "en": "Of course. Maybe next weekend, if it's sunny.",
+   "ja": "もちろん。来週末、晴れたらね。"
+  },
+  {
+   "s": "B",
+   "en": "Nex(t) weekend is busy. Park, Maya, chocolate ice cream, and the car.",
+   "ja": "来週末は忙しいね。公園、マヤ、チョコアイス、それと洗車。"
+  },
+  {
+   "s": "A",
+   "en": "Sounds like‿a grea(t) weekend. Okay, take these to your room, please.",
+   "ja": "最高の週末になりそうだね。よし、これを自分の部屋に持っていってくれる？"
+  },
+  {
+   "s": "B",
+   "en": "All of them? They're heavy.",
+   "ja": "全部？ 重いよ。"
+  },
+  {
+   "s": "A",
+   "en": "Jus(t) your clothes. I'll take the res(t).",
+   "ja": "自分の服だけでいいよ。残りはパパが持っていく。"
+  },
+  {
+   "s": "B",
+   "en": "Okay. Thank you for washing my clothes, Dad.",
+   "ja": "わかった。服を洗ってくれてありがとう、パパ。"
+  },
+  {
+   "s": "A",
+   "en": "You're welcome. Thanks for helping me fold them.",
+   "ja": "どういたしまして。たたむのを手伝ってくれてありがとう。"
+  },
+  {
+   "scene": "Dad alone, on the phone with Grandma",
+   "ja": "父ひとり、おばあちゃんと電話"
+  },
+  {
+   "s": "A",
+   "en": "Hi, Mom. Yeah, it's me. How are you doing?",
+   "ja": "もしもし、母さん。うん、僕だよ。元気？"
+  },
+  {
+   "s": "A",
+   "en": "Good, good. We're doing grea(t). We jus(t) go(t) back from the park.",
+   "ja": "うん、うん。こっちは元気だよ。さっき公園から帰ってきたところ。"
+  },
+  {
+   "s": "A",
+   "en": "Yeah, the weather was perfect. Riley played‿on the slide for‿abou(t) an hour.",
+   "ja": "うん、天気は最高だった。リリーは1時間くらいすべり台で遊んでたよ。"
+  },
+  {
+   "s": "A",
+   "en": "Oh, and this morning, we made pancakes together. Riley flipped‿one all alone, and‿i(t) was perfect.",
+   "ja": "あ、それと今朝は一緒にパンケーキを作ったんだ。リリーが1枚、ひとりでひっくり返してさ。それが完璧だったんだ。"
+  },
+  {
+   "s": "A",
+   "en": "Be⟨tt⟩er than mine, honestly.",
+   "ja": "正直、僕のよりうまかった。"
+  },
+  {
+   "s": "A",
+   "en": "Haha, yeah. I know. I was the same a(t) that age? Really?",
+   "ja": "はは、うん。わかってる。僕もその歳のころ同じだった？ ほんとに？"
+  },
+  {
+   "s": "A",
+   "en": "I don'(t) remember that a(t) all.",
+   "ja": "全然覚えてないな。"
+  },
+  {
+   "s": "A",
+   "en": "Wha⟨t⟩ abou(t) you? How's your knee?",
+   "ja": "母さんは？ ひざの具合はどう？"
+  },
+  {
+   "s": "A",
+   "en": "Tha⟨t⟩'s good to hear. Are you still doing those exercises?",
+   "ja": "それはよかった。あの体操はまだ続けてる？"
+  },
+  {
+   "s": "A",
+   "en": "Every morning? Wow. Good for you.",
+   "ja": "毎朝？ すごい。えらいね。"
+  },
+  {
+   "s": "A",
+   "en": "Oh, by the way, are you free nex(t) Sunday?",
+   "ja": "あ、ところで、来週の日曜は空いてる？"
+  },
+  {
+   "s": "A",
+   "en": "We were thinking‿abou(t) coming over for lunch.",
+   "ja": "お昼を食べに行こうかと思ってたんだ。"
+  },
+  {
+   "s": "A",
+   "en": "No, no, you don'(t) have to cook anything. We'll bring something.",
+   "ja": "いやいや、何も作らなくていいよ。何か持っていくから。"
+  },
+  {
+   "s": "A",
+   "en": "Okay, okay. If you really wan(t) to. Bu⟨t⟩ nothing too big, all right?",
+   "ja": "わかった、わかった。どうしてもって言うなら。でも、あんまり大げさにしないでね。"
+  },
+  {
+   "s": "A",
+   "en": "Riley? Yeah, Riley's in the bedroom, playing school with the stuffed animals.",
+   "ja": "リリー？ うん、部屋でぬいぐるみと学校ごっこしてるよ。"
+  },
+  {
+   "s": "A",
+   "en": "Do you {want to|wanna} talk to Riley? Hold‿on, I'll go ge(t)...",
+   "ja": "リリーと話したい？ ちょっと待って、呼んでくる……"
+  },
+  {
+   "s": "A",
+   "en": "Oh, you have to go? Okay, no problem. I'll tell Riley you said hi.",
+   "ja": "あ、もう行かなきゃ？ わかった、大丈夫。母さんがよろしくって言ってたって伝えておくよ。"
+  },
+  {
+   "s": "A",
+   "en": "Okay. Talk to you soon. Bye, Mom. Love you.",
+   "ja": "うん。またね。じゃあね、母さん。"
+  },
+  {
+   "scene": "Late afternoon — Dad alone, cooking dinner",
+   "ja": "夕方（父ひとり、夕食を作っている）"
+  },
+  {
+   "s": "A",
+   "en": "Okay. Sweet potatoes firs(t).",
+   "ja": "よし。まずはさつまいもから。"
+  },
+  {
+   "s": "A",
+   "en": "Wash them, cu⟨t⟩ {them|'em} into sticks... not too thin.",
+   "ja": "洗って、棒状に切って……細くしすぎないように。"
+  },
+  {
+   "s": "A",
+   "en": "Olive oil, a li⟨tt⟩le sal(t)... and into the oven.",
+   "ja": "オリーブオイル、塩を少し……で、オーブンへ。"
+  },
+  {
+   "s": "A",
+   "en": "Twenty-five minutes. {Let me|Lemme} set‿a timer so I don'(t) forget.",
+   "ja": "25分。忘れないようにタイマーをかけておこう。"
+  },
+  {
+   "s": "A",
+   "en": "Nex(t), the carrots. I'll steam them. Riley likes them soft.",
+   "ja": "次はにんじん。蒸そう。リリーはやわらかいのが好きだから。"
+  },
+  {
+   "s": "A",
+   "en": "Wha⟨t⟩‿else? Chicken. I took‿it ou⟨t⟩‿of the freezer this morning.",
+   "ja": "ほかには？ 鶏肉だ。今朝、冷凍庫から出しておいたんだ。"
+  },
+  {
+   "s": "A",
+   "en": "Is‿it thawed? {Let me|Lemme} check. Yeah, it's good.",
+   "ja": "解けてるかな？ 見てみよう。うん、大丈夫。"
+  },
+  {
+   "s": "A",
+   "en": "Salt, pepper, garlic... maybe a li⟨tt⟩le lemon.",
+   "ja": "塩、こしょう、にんにく……レモンを少し入れてもいいかな。"
+  },
+  {
+   "s": "A",
+   "en": "Where did‿I pu⟨t⟩ the lemon? I jus(t) bought‿one.",
+   "ja": "レモンどこに置いたっけ？ 買ったばかりなのに。"
+  },
+  {
+   "s": "A",
+   "en": "Oh, it's still in the bag. Of course.",
+   "ja": "あ、まだ袋に入ってる。そりゃそうだ。"
+  },
+  {
+   "s": "A",
+   "en": "Okay, the pan's hot. Chicken goes in.",
+   "ja": "よし、フライパンが熱くなった。鶏肉を入れる。"
+  },
+  {
+   "s": "A",
+   "en": "That smells good already.",
+   "ja": "もういいにおいがしてる。"
+  },
+  {
+   "s": "A",
+   "en": "Five minutes on this side, then flip‿it.",
+   "ja": "こっち側で5分、それからひっくり返す。"
+  },
+  {
+   "s": "A",
+   "en": "While that's cooking, {let me|lemme} clean up‿a li⟨tt⟩le.",
+   "ja": "焼いてるあいだに、ちょっと片づけよう。"
+  },
+  {
+   "s": "A",
+   "en": "Cu⟨tt⟩ing board, knife... I'll wash these now.",
+   "ja": "まな板、包丁……これはいま洗っておこう。"
+  },
+  {
+   "s": "A",
+   "en": "Ugh, the sink's full again. Where do all these dishes come from?",
+   "ja": "うわ、また流しがいっぱいだ。この皿はどこから湧いてくるんだ？"
+  },
+  {
+   "s": "A",
+   "en": "Oh, right. Pancakes this morning. And sandwiches.",
+   "ja": "あ、そうか。今朝のパンケーキ。それにサンドイッチ。"
+  },
+  {
+   "s": "A",
+   "en": "Okay, flip the chicken. Nice. Golden brown.",
+   "ja": "よし、鶏肉をひっくり返そう。いいね。きつね色だ。"
+  },
+  {
+   "s": "A",
+   "en": "Timer says ten more minutes for the sweet potatoes.",
+   "ja": "タイマーだと、さつまいもはあと10分。"
+  },
+  {
+   "s": "A",
+   "en": "Perfec(t) timing. Everything should be ready a(t) the same time.",
+   "ja": "ちょうどいい。全部同時にできあがるはずだ。"
+  },
+  {
+   "s": "A",
+   "en": "I think‿I'm ge⟨tt⟩ing be⟨tt⟩er at this.",
+   "ja": "料理、上手になってきた気がするな。"
+  },
+  {
+   "scene": "Dinner",
+   "ja": "夜ごはん"
+  },
+  {
+   "s": "A",
+   "en": "Riley! Dinner's ready!",
+   "ja": "リリー！ ごはんできたよ！"
+  },
+  {
+   "s": "B",
+   "en": "Coming! It smells so good!",
+   "ja": "いま行く！ すっごくいいにおい！"
+  },
+  {
+   "s": "A",
+   "en": "Can you help me set the table?",
+   "ja": "テーブルの準備を手伝ってくれる？"
+  },
+  {
+   "s": "B",
+   "en": "Sure. Wha(t) do‿I need?",
+   "ja": "いいよ。何が要るの？"
+  },
+  {
+   "s": "A",
+   "en": "Two plates, two forks, and two cups.",
+   "ja": "お皿2枚、フォーク2本、コップ2つ。"
+  },
+  {
+   "s": "B",
+   "en": "Where are the forks again?",
+   "ja": "フォークってどこだっけ？"
+  },
+  {
+   "s": "A",
+   "en": "Top drawer, nex(t) to the sink.",
+   "ja": "いちばん上の引き出し。流しの隣だよ。"
+  },
+  {
+   "s": "B",
+   "en": "Got them! Can‿I pour the wa⟨t⟩er?",
+   "ja": "あった！ お水入れていい？"
+  },
+  {
+   "s": "A",
+   "en": "Sure. Jus(t) fill‿it halfway.",
+   "ja": "いいよ。半分くらいまでね。"
+  },
+  {
+   "s": "B",
+   "en": "Is this halfway?",
+   "ja": "これで半分？"
+  },
+  {
+   "s": "A",
+   "en": "A li⟨tt⟩le more than halfway, bu(t) that's okay.",
+   "ja": "半分よりちょっと多いけど、まあいいよ。"
+  },
+  {
+   "s": "B",
+   "en": "Wow, sweet potato fries!",
+   "ja": "わあ、さつまいものポテト！"
+  },
+  {
+   "s": "A",
+   "en": "Try one. They're hot, so blow on‿it first.",
+   "ja": "1本食べてみて。熱いから、先にふーふーしてね。"
+  },
+  {
+   "s": "B",
+   "en": "Mmm! They really are sweet!",
+   "ja": "んー！ ほんとに甘い！"
+  },
+  {
+   "s": "A",
+   "en": "Told you. Now try the carrots.",
+   "ja": "言ったでしょ。じゃあ、にんじんも食べてみて。"
+  },
+  {
+   "s": "B",
+   "en": "Do‿I have to?",
+   "ja": "食べなきゃだめ？"
+  },
+  {
+   "s": "A",
+   "en": "We made‿a deal, remember?",
+   "ja": "約束したでしょ、覚えてる？"
+  },
+  {
+   "s": "B",
+   "en": "Okay. Hey, these are soft. They're no(t) bad.",
+   "ja": "わかった。あれ、やわらかい。悪くないね。"
+  },
+  {
+   "s": "A",
+   "en": "I steamed them jus(t) for you.",
+   "ja": "きみのために蒸したんだよ。"
+  },
+  {
+   "s": "B",
+   "en": "Can‿I have more chicken?",
+   "ja": "鶏肉おかわりしていい？"
+  },
+  {
+   "s": "A",
+   "en": "Of course. Here you go.",
+   "ja": "もちろん。はい、どうぞ。"
+  },
+  {
+   "s": "B",
+   "en": "Dad, this is the bes(t) dinner ever.",
+   "ja": "パパ、これ今までで最高の夜ごはん。"
+  },
+  {
+   "s": "A",
+   "en": "Really? Be⟨tt⟩er than pizza?",
+   "ja": "ほんと？ ピザより？"
+  },
+  {
+   "s": "B",
+   "en": "Hmm... almos(t) as good as pizza.",
+   "ja": "うーん……ピザとほぼ同じくらい。"
+  },
+  {
+   "s": "A",
+   "en": "That's a big compliment. I'll take‿it.",
+   "ja": "それは最高のほめ言葉だね。ありがたく受け取るよ。"
+  },
+  {
+   "s": "B",
+   "en": "What's for dessert?",
+   "ja": "デザートは何？"
+  },
+  {
+   "s": "A",
+   "en": "Vanilla ice cream. Remember, we {have to|hafta} finish‿it.",
+   "ja": "バニラアイス。覚えてる？ 食べ切らなきゃいけないんだから。"
+  },
+  {
+   "s": "B",
+   "en": "Then we can ge(t) chocolate!",
+   "ja": "そしたらチョコが買えるね！"
+  },
+  {
+   "s": "A",
+   "en": "Exactly. Bu(t) first, help me clear the table.",
+   "ja": "その通り。でも先に、テーブルを片づけるのを手伝って。"
+  },
+  {
+   "s": "B",
+   "en": "Do‿I have to wash the dishes too?",
+   "ja": "お皿も洗わなきゃだめ？"
+  },
+  {
+   "s": "A",
+   "en": "Jus(t) bring them to the sink. I'll wash them.",
+   "ja": "流しに持ってきてくれるだけでいいよ。洗うのはパパがやる。"
+  },
+  {
+   "s": "B",
+   "en": "Okay! That's easy.",
+   "ja": "わかった！ それなら簡単。"
+  },
+  {
+   "scene": "After dinner, on the couch",
+   "ja": "夕食のあと、ソファで"
+  },
+  {
+   "s": "B",
+   "en": "Dad, wha⟨t⟩ were you like when you were‿a kid?",
+   "ja": "パパ、子どものころってどんな感じだったの？"
+  },
+  {
+   "s": "A",
+   "en": "Hmm. I was pre⟨tt⟩y shy, actually.",
+   "ja": "うーん。実はけっこう人見知りだったんだ。"
+  },
+  {
+   "s": "B",
+   "en": "Really? You're no(t) shy now.",
+   "ja": "ほんと？ いまは人見知りじゃないのに。"
+  },
+  {
+   "s": "A",
+   "en": "Well, I go(t) better. Bu⟨t⟩ when‿I was your age, I didn'(t) talk much at school.",
+   "ja": "まあ、だんだん慣れたんだよ。でも、きみの歳のころは、学校であまりしゃべらなかったんだ。"
+  },
+  {
+   "s": "B",
+   "en": "Did you have friends?",
+   "ja": "友だちはいた？"
+  },
+  {
+   "s": "A",
+   "en": "A few. I had one bes(t) friend. His name was Ken.",
+   "ja": "何人かね。親友がひとりいた。ケンっていう名前だった。"
+  },
+  {
+   "s": "B",
+   "en": "Wha⟨t⟩ did you do together?",
+   "ja": "一緒に何してたの？"
+  },
+  {
+   "s": "A",
+   "en": "We rode our bikes everywhere. And we built a li⟨tt⟩le house in the woods.",
+   "ja": "どこへでも自転車で行ったよ。それに、森の中に小さな小屋を作ったんだ。"
+  },
+  {
+   "s": "B",
+   "en": "A real house?",
+   "ja": "本物の家？"
+  },
+  {
+   "s": "A",
+   "en": "No(t) really. It was more like‿a pile of sticks. Bu⟨t⟩ we loved‿it.",
+   "ja": "本物ってわけじゃないよ。木の枝の山みたいなものだった。でも、大好きだったんだ。"
+  },
+  {
+   "s": "B",
+   "en": "Can we build one?",
+   "ja": "一緒に作れる？"
+  },
+  {
+   "s": "A",
+   "en": "Maybe. We'd need to find‿a good spot.",
+   "ja": "たぶんね。いい場所を見つけないと。"
+  },
+  {
+   "s": "B",
+   "en": "Wha⟨t⟩ abou(t) the backyard?",
+   "ja": "裏庭は？"
+  },
+  {
+   "s": "A",
+   "en": "The backyard? Wha⟨t⟩ abou(t) the giant cat?",
+   "ja": "裏庭？ 大きな猫はどうするの？"
+  },
+  {
+   "s": "B",
+   "en": "Dad! Tha⟨t⟩ was‿a dream!",
+   "ja": "パパ！ あれは夢だよ！"
+  },
+  {
+   "s": "A",
+   "en": "I know, I know. Okay, maybe we can build‿a small one in the corner.",
+   "ja": "わかってる、わかってる。じゃあ、すみっこに小さいのを作れるかもね。"
+  },
+  {
+   "s": "B",
+   "en": "With‿a door?",
+   "ja": "ドアもつける？"
+  },
+  {
+   "s": "A",
+   "en": "With‿a door. And maybe‿a window.",
+   "ja": "ドアもつけよう。窓もつけられるかもね。"
+  },
+  {
+   "s": "B",
+   "en": "This is {going to|gonna} be the bes(t) house ever.",
+   "ja": "今までで最高の家になるね。"
+  },
+  {
+   "s": "A",
+   "en": "We'll see. Firs(t), bath time.",
+   "ja": "どうかな。まずはお風呂の時間。"
+  },
+  {
+   "scene": "Riley alone, playing in the bedroom",
+   "ja": "リリーひとり、部屋で遊んでいる"
+  },
+  {
+   "s": "B",
+   "en": "Okay, everybody. Time for school.",
+   "ja": "はい、みんな。学校の時間ですよ。"
+  },
+  {
+   "s": "B",
+   "en": "Teddy, you sit here. Bunny, you sit nex(t) to Teddy.",
+   "ja": "テディはここに座って。うさぎさんはテディの隣ね。"
+  },
+  {
+   "s": "B",
+   "en": "And Duck... where's Duck?",
+   "ja": "それからアヒルさんは……アヒルさんはどこ？"
+  },
+  {
+   "s": "B",
+   "en": "Oh, right. Duck's in the bathroom. For the bath.",
+   "ja": "あ、そうだ。アヒルさんはお風呂場だ。お風呂用だから。"
+  },
+  {
+   "s": "B",
+   "en": "That's okay. Duck can come la⟨t⟩er.",
+   "ja": "いいや。アヒルさんはあとで来ればいいよ。"
+  },
+  {
+   "s": "B",
+   "en": "Good morning, class. Today we're {going to|gonna} learn abou(t) leaves.",
+   "ja": "おはようございます、みなさん。今日は葉っぱについて勉強します。"
+  },
+  {
+   "s": "B",
+   "en": "Does anybody know why leaves change color?",
+   "ja": "葉っぱの色がどうして変わるか、知ってる人？"
+  },
+  {
+   "s": "B",
+   "en": "No? Okay, I'll tell you.",
+   "ja": "いない？ じゃあ、教えてあげます。"
+  },
+  {
+   "s": "B",
+   "en": "Trees make food from sunligh⟨t⟩‿and wa⟨t⟩er. Tha⟨t⟩'s why they're green.",
+   "ja": "木は日の光と水から栄養を作ります。だから緑色なんです。"
+  },
+  {
+   "s": "B",
+   "en": "And when‿it gets cold, they stop. So the green goes‿away.",
+   "ja": "それで、寒くなると作るのをやめます。だから緑がなくなるんです。"
+  },
+  {
+   "s": "B",
+   "en": "Teddy, are you listening? You look sleepy.",
+   "ja": "テディ、聞いてる？ 眠そうだよ。"
+  },
+  {
+   "s": "B",
+   "en": "Okay, maybe you need‿a snack. Here's a cookie.",
+   "ja": "じゃあ、おやつが要るのかな。はい、クッキー。"
+  },
+  {
+   "s": "B",
+   "en": "It's not‿a real cookie. It's pretend.",
+   "ja": "本物のクッキーじゃないよ。ごっこだからね。"
+  },
+  {
+   "s": "B",
+   "en": "Bunny, do you want one too?",
+   "ja": "うさぎさんも欲しい？"
+  },
+  {
+   "s": "B",
+   "en": "Okay. One for you, too. Bu⟨t⟩ only one. Cookies are for after lunch.",
+   "ja": "はい。うさぎさんにも1枚。でも1枚だけね。クッキーはお昼のあとなんだから。"
+  },
+  {
+   "s": "B",
+   "en": "Now, homework. Draw‿a picture of the park.",
+   "ja": "じゃあ、宿題です。公園の絵を描いてきてください。"
+  },
+  {
+   "s": "B",
+   "en": "Wait, I should do that too. Where are my crayons?",
+   "ja": "待って、自分も描かなきゃ。クレヨンどこだっけ？"
+  },
+  {
+   "s": "B",
+   "en": "Dad! Have you seen my crayons?",
+   "ja": "パパー！ クレヨン見なかった？"
+  },
+  {
+   "scene": "Bath time and bedtime",
+   "ja": "お風呂と寝る時間"
+  },
+  {
+   "s": "A",
+   "en": "Okay, bath time.",
+   "ja": "よし、お風呂の時間だよ。"
+  },
+  {
+   "s": "B",
+   "en": "Five more minutes? I'm drawing something.",
+   "ja": "あと5分いい？ いま絵を描いてるの。"
+  },
+  {
+   "s": "A",
+   "en": "Wha⟨t⟩‿are you drawing?",
+   "ja": "何を描いてるの？"
+  },
+  {
+   "s": "B",
+   "en": "The park. This is me on the swing, and this is Maya.",
+   "ja": "公園。これがブランコに乗ってるところで、こっちがマヤ。"
+  },
+  {
+   "s": "A",
+   "en": "And who's tha⟨t⟩‿on the bench?",
+   "ja": "じゃあ、ベンチにいるのは誰？"
+  },
+  {
+   "s": "B",
+   "en": "That's you! You're reading your phone.",
+   "ja": "パパだよ！ スマホ見てるの。"
+  },
+  {
+   "s": "A",
+   "en": "Hey, I was watching you the whole time.",
+   "ja": "ちょっと、ずっときみのこと見てたよ。"
+  },
+  {
+   "s": "B",
+   "en": "Mos(t) of the time.",
+   "ja": "ほとんどの時間はね。"
+  },
+  {
+   "s": "A",
+   "en": "Okay, fair. Bu⟨t⟩‿I saw the big slide.",
+   "ja": "まあ、それはそうだね。でも、大きいすべり台はちゃんと見たよ。"
+  },
+  {
+   "s": "B",
+   "en": "You did. Okay, I'm done. Bath time.",
+   "ja": "見てたね。よし、描けた。お風呂の時間。"
+  },
+  {
+   "s": "A",
+   "en": "Do you {want to|wanna} take some toys‿in the bath?",
+   "ja": "お風呂におもちゃ持っていく？"
+  },
+  {
+   "s": "B",
+   "en": "Yeah! My duck and my boat.",
+   "ja": "うん！ アヒルと船。"
+  },
+  {
+   "s": "A",
+   "en": "Okay. Don'(t) splash too much this time.",
+   "ja": "わかった。今回はあんまりバシャバシャしないでね。"
+  },
+  {
+   "s": "B",
+   "en": "I'll try. No promises.",
+   "ja": "がんばる。約束はできないけど。"
+  },
+  {
+   "s": "A",
+   "en": "That's honest, a(t) least.",
+   "ja": "正直なのはいいことだね。"
+  },
+  {
+   "s": "A",
+   "en": "All righ(t). Pajamas on?",
+   "ja": "よし。パジャマ着た？"
+  },
+  {
+   "s": "B",
+   "en": "Yep. The blue ones.",
+   "ja": "うん。青いやつ。"
+  },
+  {
+   "s": "A",
+   "en": "Did you brush your teeth?",
+   "ja": "歯みがきした？"
+  },
+  {
+   "s": "B",
+   "en": "Um... not ye(t).",
+   "ja": "えっと……まだ。"
+  },
+  {
+   "s": "A",
+   "en": "Go brush them. Two minutes. I'll set‿a timer.",
+   "ja": "みがいておいで。2分ね。タイマーかけるから。"
+  },
+  {
+   "s": "B",
+   "en": "Wha⟨t⟩‿if I brush really fas(t)?",
+   "ja": "すっごく速くみがいたら？"
+  },
+  {
+   "s": "A",
+   "en": "Then you brush for two minutes really fast.",
+   "ja": "じゃあ、2分間すっごく速くみがいてね。"
+  },
+  {
+   "s": "B",
+   "en": "Dad!",
+   "ja": "パパ！"
+  },
+  {
+   "s": "A",
+   "en": "Go on. I'll wait for you in your room.",
+   "ja": "ほら行って。部屋で待ってるから。"
+  },
+  {
+   "s": "B",
+   "en": "Done! Smell. Minty.",
+   "ja": "できた！ におって。ミントのにおい。"
+  },
+  {
+   "s": "A",
+   "en": "Very minty. Okay, into bed.",
+   "ja": "すごくミントだね。よし、ベッドに入って。"
+  },
+  {
+   "s": "B",
+   "en": "Can you read me‿a story?",
+   "ja": "お話を読んでくれる？"
+  },
+  {
+   "s": "A",
+   "en": "Sure. Which‿one?",
+   "ja": "いいよ。どれにする？"
+  },
+  {
+   "s": "B",
+   "en": "The one abou(t) the bear who couldn'(t) sleep.",
+   "ja": "眠れないくまのお話。"
+  },
+  {
+   "s": "A",
+   "en": "Again? We read tha⟨t⟩‿one las(t) night.",
+   "ja": "また？ ゆうべも読んだよ。"
+  },
+  {
+   "s": "B",
+   "en": "I know. Bu⟨t⟩‿it's my favorite.",
+   "ja": "わかってる。でも、いちばん好きなんだもん。"
+  },
+  {
+   "s": "A",
+   "en": "Okay. \"Once upon‿a time, there was‿a li⟨tt⟩le bear...\"",
+   "ja": "わかった。「むかしむかし、小さなくまがいました……」"
+  },
+  {
+   "s": "B",
+   "en": "Dad, wait. Can‿I ask you something first?",
+   "ja": "パパ、待って。先にひとつ聞いていい？"
+  },
+  {
+   "s": "A",
+   "en": "Sure. What's up?",
+   "ja": "いいよ。どうしたの？"
+  },
+  {
+   "s": "B",
+   "en": "Wha(t) was your favorite par(t) of today?",
+   "ja": "今日いちばん楽しかったのはどこ？"
+  },
+  {
+   "s": "A",
+   "en": "Hmm. Good question. I think... making pancakes with you.",
+   "ja": "うーん。いい質問だね。たぶん……きみと一緒にパンケーキを作ったことかな。"
+  },
+  {
+   "s": "B",
+   "en": "Really? Not the park?",
+   "ja": "ほんと？ 公園じゃないの？"
+  },
+  {
+   "s": "A",
+   "en": "The park was fun too. Bu(t) you flipped tha(t) pancake perfectly.",
+   "ja": "公園も楽しかったよ。でも、きみがあのパンケーキを完璧にひっくり返したからね。"
+  },
+  {
+   "s": "B",
+   "en": "I did, didn'(t) I?",
+   "ja": "そうだよね？"
+  },
+  {
+   "s": "A",
+   "en": "You did. Wha⟨t⟩‿abou(t) you? Wha(t) was your favorite part?",
+   "ja": "そうだよ。きみは？ いちばん楽しかったのはどこ？"
+  },
+  {
+   "s": "B",
+   "en": "The big slide. And the sweet potato fries.",
+   "ja": "大きいすべり台。それと、さつまいものポテト。"
+  },
+  {
+   "s": "A",
+   "en": "Two things? That's cheating.",
+   "ja": "2つ？ それはずるいよ。"
+  },
+  {
+   "s": "B",
+   "en": "Okay, the fries. No, the slide. Both!",
+   "ja": "じゃあ、ポテト。ううん、すべり台。両方！"
+  },
+  {
+   "s": "A",
+   "en": "Okay, both. Now, the story. \"Once upon‿a time...\"",
+   "ja": "わかった、両方ね。じゃあ、お話。「むかしむかし……」"
+  },
+  {
+   "s": "B",
+   "en": "Dad?",
+   "ja": "パパ？"
+  },
+  {
+   "s": "A",
+   "en": "Yes?",
+   "ja": "なに？"
+  },
+  {
+   "s": "B",
+   "en": "Can we go to the park again tomorrow?",
+   "ja": "明日もまた公園に行ける？"
+  },
+  {
+   "s": "A",
+   "en": "Tomorrow it's supposed to rain.",
+   "ja": "明日は雨の予報なんだ。"
+  },
+  {
+   "s": "B",
+   "en": "Oh no. Then wha(t) can we do?",
+   "ja": "えー。じゃあ何するの？"
+  },
+  {
+   "s": "A",
+   "en": "We could bake cookies.",
+   "ja": "クッキーを焼くのはどう？"
+  },
+  {
+   "s": "B",
+   "en": "Cookies! Can‿I crack the eggs again?",
+   "ja": "クッキー！ また卵割っていい？"
+  },
+  {
+   "s": "A",
+   "en": "Of course. You're the egg expert now.",
+   "ja": "もちろん。もう卵のプロだからね。"
+  },
+  {
+   "s": "B",
+   "en": "Yay. Okay. Now you can read.",
+   "ja": "やったー。よし。もう読んでいいよ。"
+  },
+  {
+   "s": "A",
+   "en": "Thank you. \"Once upon‿a time, there was‿a li⟨tt⟩le bear who couldn'(t) sleep...\"",
+   "ja": "ありがとう。「むかしむかし、眠れない小さなくまがいました……」"
+  },
+  {
+   "s": "B",
+   "en": "Dad...",
+   "ja": "パパ……"
+  },
+  {
+   "s": "A",
+   "en": "Hmm?",
+   "ja": "うん？"
+  },
+  {
+   "s": "B",
+   "en": "Good night.",
+   "ja": "おやすみ。"
+  },
+  {
+   "s": "A",
+   "en": "Good night, sweetie. Sleep tight.",
+   "ja": "おやすみ。ぐっすり眠ってね。"
+  },
+  {
+   "scene": "Late at night — Dad alone in the living room",
+   "ja": "夜遅く（父ひとり、リビングで）"
+  },
+  {
+   "s": "A",
+   "en": "Asleep‿already. Tha(t) was fast.",
+   "ja": "もう寝ちゃった。早かったな。"
+  },
+  {
+   "s": "A",
+   "en": "Okay. {Let me|Lemme} clean up‿a li⟨tt⟩le before‿I go to bed.",
+   "ja": "よし。寝る前にちょっと片づけよう。"
+  },
+  {
+   "s": "A",
+   "en": "Toys‿in the box. Crayons back in the case.",
+   "ja": "おもちゃは箱に。クレヨンはケースに戻して。"
+  },
+  {
+   "s": "A",
+   "en": "Oh, here's the drawing. The park.",
+   "ja": "お、さっきの絵だ。公園の。"
+  },
+  {
+   "s": "A",
+   "en": "Me on the bench, looking‿a(t) my phone. Hmm.",
+   "ja": "ベンチでスマホを見てるパパか。うーん。"
+  },
+  {
+   "s": "A",
+   "en": "Okay, fair enough. Nex(t) time, I'll leave my phone in my bag.",
+   "ja": "まあ、言われても仕方ない。次はスマホをかばんに入れておこう。"
+  },
+  {
+   "s": "A",
+   "en": "{Let me|Lemme} put this on the fridge. It's {kind of|kinda} grea(t), actually.",
+   "ja": "これは冷蔵庫に貼っておこう。けっこういい絵だしな。"
+  },
+  {
+   "s": "A",
+   "en": "Tomorrow... rain. Cookies. I need bu⟨tt⟩er and sugar.",
+   "ja": "明日は……雨。クッキー。バターと砂糖が要るな。"
+  },
+  {
+   "s": "A",
+   "en": "Do we have bu⟨tt⟩er? {Let me|Lemme} check.",
+   "ja": "バターあったっけ？ 見てみよう。"
+  },
+  {
+   "s": "A",
+   "en": "Yeah, we have enough. And there's flour in the cabinet.",
+   "ja": "うん、足りる。小麦粉も戸棚にある。"
+  },
+  {
+   "s": "A",
+   "en": "Chocolate chips? Hmm, no chocolate chips.",
+   "ja": "チョコチップは？ うーん、チョコチップはない。"
+  },
+  {
+   "s": "A",
+   "en": "Riley's no(t) {going to|gonna} be happy abou(t) that.",
+   "ja": "リリーはがっかりするだろうな。"
+  },
+  {
+   "s": "A",
+   "en": "Maybe I'll run to the store early in the morning.",
+   "ja": "朝早く、ちょっとお店に行ってこようかな。"
+  },
+  {
+   "s": "A",
+   "en": "Okay. Lights‿off. Doors locked. Keys...",
+   "ja": "よし。電気を消して。ドアの鍵よし。鍵は……"
+  },
+  {
+   "s": "A",
+   "en": "...in the same place as always. Right here by the door.",
+   "ja": "……いつもと同じ場所に。ドアのそばのここに。"
+  },
+  {
+   "s": "A",
+   "en": "Good nigh(t), house.",
+   "ja": "おやすみ、我が家。"
+  }
+ ]
+}
