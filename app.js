@@ -6,6 +6,7 @@
   const SPEAK_AS_WRITTEN = new Set(["gonna", "wanna", "gotta", "kinda", "sorta", "lemme", "gimme", "outta", "lotta", "'em", "dunno", "gotcha", "ya"]);
   const AUDIO_VERSION = 1; // 音声の作り方を変えたら上げる（端末の保存分が作り直しになる）
   const CHUNK_WORDS = 450;  // 1回のAzure呼び出しの量（1回10分の上限より十分小さく）
+  const CHUNK_VOICES = 40;  // 1回の呼び出しで声を切り替える回数（Azureの上限50より小さく）
 
   // ---------- settings (shared with the pronunciation page: same origin, same keys) ----------
   const store = {
@@ -148,22 +149,27 @@
   });
 
   // ---------- synthesis (Azure) ----------
+  // Azure のエラーには、原因に関係なく "websocket" が入ることが多い。判定は番号で行い、詳細は必ず添える
   const cancelText = (details) => {
-    const d = (details && details.errorDetails) || "";
-    if (/401|Unauthorized|authentication/i.test(d)) return "キーが違うか、リージョンが合っていません。下の設定を見直してください。";
-    if (/1006|websocket|network/i.test(d)) return "Azureにつながりませんでした。通信状態を確かめてください。";
-    if (/quota|429|throttl/i.test(d)) return "Azureの無料枠の上限か、呼び出しが多すぎます。少し待ってから作り直してください。";
-    return "失敗しました: " + d;
+    const d = (details && details.errorDetails) || "（詳細なし）";
+    let head = "音声を作れませんでした。";
+    if (/\b401\b|Unauthorized|authentication/i.test(d)) head = "キーが違うか、リージョンが合っていません。下の設定を見直してください。";
+    else if (/\b(429|4429)\b|quota|throttl/i.test(d)) head = "Azureの無料枠の上限か、呼び出しが多すぎます。少し待ってから作り直してください。";
+    else if (/\b1007\b/.test(d)) head = "Azureが台本の形式を受け付けませんでした。";
+    else if (/\b1006\b/.test(d)) head = "Azureにつながりませんでした。通信状態を確かめてください。";
+    return `${head}（詳細: ${d}）`;
   };
 
   function chunks() {
-    const out = []; let cur = [], words = 0, idx = 0, sceneBreak = false;
+    const out = []; let cur = [], words = 0, voices = 0, idx = 0, sceneBreak = false;
     for (const l of script.lines) {
       if (l.scene) { sceneBreak = idx > 0; continue; }
       const text = spoken(l.en);
+      const prev = cur[cur.length - 1];
+      if (!prev || script.cast[prev.s].voice !== script.cast[l.s].voice) voices++;
       cur.push({ i: idx++, s: l.s, text, sceneBreak }); sceneBreak = false;
       words += text.split(/\s+/).length;
-      if (words >= CHUNK_WORDS) { out.push(cur); cur = []; words = 0; }
+      if (words >= CHUNK_WORDS || voices >= CHUNK_VOICES) { out.push(cur); cur = []; words = 0; voices = 0; }
     }
     if (cur.length) out.push(cur);
     return out;
@@ -190,7 +196,7 @@
           const dur = r.audioDuration ? r.audioDuration / 1e7 : (r.audioData.byteLength * 8) / 48000;
           res({ audio: r.audioData, dur, marks });
         } else rej(new Error(cancelText(SDK.CancellationDetails.fromResult(r))));
-      }, (e) => { s.close(); rej(new Error(String(e))); });
+      }, (e) => { s.close(); rej(new Error(`音声を作れませんでした。（詳細: ${e}）`)); });
     });
   }
 

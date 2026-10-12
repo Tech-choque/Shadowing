@@ -17,7 +17,7 @@ VOICES = {
     "en-US-JennyNeural", "en-US-AriaNeural", "en-US-EmmaNeural", "en-US-AvaNeural",
     "en-US-AnaNeural",
 }
-WORDS_MIN, WORDS_MAX = 3300, 4200  # 25分前後（会話の切れ目の間を含めて。実測で見直す）
+WORDS_MIN, WORDS_MAX = 1600, 2000  # 12〜13分（会話の切れ目の間を含めた見込み。実測で見直す）
 WPM = 155
 
 RE_RUBY = re.compile(r"\{([^{}|]+)\|([^{}|]+)\}")
@@ -57,6 +57,8 @@ def parse(path: Path):
             en, _, ja = line[3:].partition("||")
             if not ja.strip():
                 errs.append(f"{where}: 場面の和訳がない")
+            if any(c in en for c in "‿⟨⟩{}|()"):
+                errs.append(f"{where}: 場面の見出しに印がある（見出しは読み上げないので印を付けない）")
             lines.append({"scene": en.strip(), "ja": ja.strip()})
             continue
         m = re.match(r"^([A-Z]):\s*(.+)$", line)
