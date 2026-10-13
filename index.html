@@ -8,7 +8,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=IBM+Plex+Sans+JP:wght@400;500;600&display=swap">
 <style>
-/* Layout: one narrow reading column. Player (sticky) → legend → script (EN, numbered) → Japanese at the very bottom → settings */
+/* Layout: one narrow reading column. Player (sticky, with play count) → legend → script (EN; tap a line to show its Japanese) → settings */
 :root {
   --bg: #f6f7f9;
   --surface: #ffffff;
@@ -86,12 +86,14 @@ ol.script { list-style: none; margin: 0; padding: 0; display: grid; gap: 14px; }
 ruby.m-rd { ruby-position: over; color: var(--red); }
 ruby.m-rd rt { font-family: var(--font-ui); font-size: 11px; font-weight: 600; letter-spacing: .02em; }
 
-.jp { border-top: 1px solid var(--rule); padding-top: 24px; }
-.jp ol { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
-.jp li { display: grid; grid-template-columns: 2.4rem 1fr; gap: 10px; font-size: 15px; }
-.jp li > span:last-child { min-width: 0; }
-.jp li.jscene { display: block; font-size: 12.5px; font-weight: 600; color: var(--muted); padding-top: 10px; }
-.jp .who { font-size: 12px; font-weight: 600; margin-right: 6px; }
+.line { cursor: pointer; -webkit-tap-highlight-color: transparent; }
+.line:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.line .ja { margin: 0; font-size: 17px; line-height: 2.25; overflow-wrap: anywhere; }
+.line .ja, .line.show-ja .en { display: none; }
+.line.show-ja .ja { display: block; }
+.plays { display: flex; flex-wrap: wrap; gap: 4px 14px; align-items: baseline; font-size: 13px; color: var(--muted); }
+.plays b { font-size: 20px; color: var(--fg); font-variant-numeric: tabular-nums; margin-right: 2px; }
+.tip { font-size: 12.5px; color: var(--muted); margin: -4px 0 0; }
 
 details.settings { border-top: 1px solid var(--rule); padding-top: 18px; }
 details.settings summary { cursor: pointer; font-weight: 600; font-size: 14px; }
@@ -121,6 +123,10 @@ details.settings summary { cursor: pointer; font-weight: 600; font-size: 14px; }
       <label class="check" for="follow"><input id="follow" type="checkbox" checked>再生中の文を追う</label>
       <a class="btn ghost" id="dl" href="#" download>MP3を保存</a>
     </div>
+    <div class="plays" id="plays" hidden>
+      <span>この台本 <b id="plays-this">0</b>回</span>
+      <span>これまでの合計 <b id="plays-all">0</b>回</span>
+    </div>
     <p id="status" role="status"></p>
   </section>
 
@@ -133,12 +139,8 @@ details.settings summary { cursor: pointer; font-weight: 600; font-size: 14px; }
 
   <section aria-label="英文">
     <h2>SCRIPT</h2>
+    <p class="tip">文をタップすると、英文と和訳が切り替わります。</p>
     <ol class="script" id="script"></ol>
-  </section>
-
-  <section class="jp" aria-label="和訳">
-    <h2>和訳</h2>
-    <ol id="ja"></ol>
   </section>
 
   <details class="settings" id="settings">

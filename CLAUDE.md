@@ -43,7 +43,7 @@ B: Morning, Dad. What time‿is‿it? || おはよう、パパ。いま何時？
 ```
 
 - `## 英語 || 日本語` は場面の見出し（読み上げない）
-- `記号: 英文 || 和訳` が1文。和訳は1文ごとに必ず付ける。ページでは最下部に番号付きで並ぶ
+- `記号: 英文 || 和訳` が1文。和訳は1文ごとに必ず付ける。ページでは文をタップすると英文と和訳が切り替わる（初期表示は英文）
 - `//` で始まる行はメモ（無視される）
 - 声は次から選ぶ（ページの読み上げで使える声）。子どもの声は `en-US-AnaNeural` だけ
   - 男性: `en-US-GuyNeural` `en-US-AndrewNeural` `en-US-BrianNeural`
@@ -77,5 +77,6 @@ B: Morning, Dad. What time‿is‿it? || おはよう、パパ。いま何時？
 - `index.html` と `app.js` だけで動く。ビルドは不要
 - Azure のキーは、瞬間英作文の発音チェック（`Tech-choque/Instant_English_Composition`）と同じ localStorage の項目（`iec.key` `iec.region`）を使う。どちらも `tech-choque.github.io` の下なので共有される
 - 音声は約450語ずつ、かつ**声の切り替え40回まで**に分けて Azure に頼み、MP3をつなげる（1回の依頼で `<voice>` が50を超えると断られる。2026-10-12、実機で「Azureにつながりませんでした」と出た原因）。各文の頭に bookmark を入れて、再生中の文の位置を取っている
+- 再生回数は、音声を最後まで再生するたびに +1（localStorage の `sh.plays`、台本ごと。その端末だけ）
 - 作った音声は IndexedDB に保存する（直近4週分）。音声の作り方を変えたら `app.js` の `AUDIO_VERSION` を上げる
 - `vendor/speech-sdk/`: Microsoft の Speech SDK（ブラウザ版）1.51.0。再配布が許されているファイルだけ（`REDIST.txt`）

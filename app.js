@@ -88,24 +88,21 @@
     $("cast").textContent = Object.values(cast).map((c) => `${c.name}（${c.role_ja}）`).join(" と ");
     document.title = `${script.title} · シャドーイング`;
 
-    const ol = $("script"), ja = $("ja");
-    ol.replaceChildren(); ja.replaceChildren(); lineEls = [];
+    const ol = $("script");
+    ol.replaceChildren(); lineEls = [];
     let n = 0;
     for (const l of script.lines) {
       if (l.scene) {
         const h = document.createElement("li"); h.className = "scene";
         h.innerHTML = `${esc(l.scene)}<span class="ja">${esc(l.ja)}</span>`; ol.append(h);
-        const j = document.createElement("li"); j.className = "jscene"; j.textContent = l.ja; ja.append(j);
         continue;
       }
       n++;
       const c = cast[l.s];
       const li = document.createElement("li"); li.className = "line";
-      li.innerHTML = `<span class="num">${n}</span><div class="body"><div class="spk ${l.s}">${esc(c.name)}</div><p class="en">${render(l.en)}</p></div>`;
+      li.tabIndex = 0; li.setAttribute("role", "button"); li.setAttribute("aria-pressed", "false");
+      li.innerHTML = `<span class="num">${n}</span><div class="body"><div class="spk ${l.s}">${esc(c.name)}</div><p class="en">${render(l.en)}</p><p class="ja" lang="ja">${esc(l.ja)}</p></div>`;
       ol.append(li); lineEls.push(li);
-      const j = document.createElement("li");
-      j.innerHTML = `<span class="num">${n}</span><span><span class="who spk ${l.s}">${esc(c.name)}</span>${esc(l.ja)}</span>`;
-      ja.append(j);
     }
 
     cacheKey = `${script.id}:${hash(JSON.stringify([AUDIO_VERSION, cast, script.lines.map((l) => l.en || l.scene)]))}`;
@@ -113,11 +110,32 @@
     if (hit) attach(hit); else detach();
   }
 
+  // ---------- tap a line: English <-> Japanese (starts in English) ----------
+  const toggle = (li) => { const on = li.classList.toggle("show-ja"); li.setAttribute("aria-pressed", String(on)); };
+  $("script").addEventListener("click", (e) => { const li = e.target.closest(".line"); if (li) toggle(li); });
+  $("script").addEventListener("keydown", (e) => {
+    if (e.key !== "Enter" && e.key !== " ") return;
+    const li = e.target.closest(".line"); if (li) { e.preventDefault(); toggle(li); }
+  });
+
+  // ---------- play count (this device only): +1 each time the audio plays to the end ----------
+  const PLAYS_KEY = "sh.plays";
+  const readPlays = () => { try { return JSON.parse(store.get(PLAYS_KEY) || "{}"); } catch { return {}; } };
+  function showPlays() {
+    const p = readPlays();
+    $("plays-this").textContent = p[script.id] || 0;
+    $("plays-all").textContent = Object.values(p).reduce((a, b) => a + b, 0);
+  }
+  $("audio").addEventListener("ended", () => {
+    const p = readPlays(); p[script.id] = (p[script.id] || 0) + 1;
+    store.set(PLAYS_KEY, JSON.stringify(p)); showPlays();
+  });
+
   // ---------- player ----------
   let blobUrl = "";
   function detach() {
     times = null;
-    $("audio").hidden = true; $("play-row").hidden = true; $("make-row").hidden = false;
+    $("audio").hidden = true; $("play-row").hidden = true; $("plays").hidden = true; $("make-row").hidden = false;
     $("audio").removeAttribute("src");
   }
   function attach({ blob, times: t, duration }) {
@@ -126,7 +144,8 @@
     blobUrl = URL.createObjectURL(blob);
     const a = $("audio"); a.src = blobUrl; a.hidden = false;
     $("dl").href = blobUrl; $("dl").download = `shadowing-${script.id}.mp3`;
-    $("make-row").hidden = true; $("play-row").hidden = false;
+    $("make-row").hidden = true; $("play-row").hidden = false; $("plays").hidden = false;
+    showPlays();
     say(`音声 ${fmt(duration)}（この端末に保存済み）`);
     if ("mediaSession" in navigator) {
       navigator.mediaSession.metadata = new MediaMetadata({ title: script.title, artist: "Shadowing", album: script.id });
